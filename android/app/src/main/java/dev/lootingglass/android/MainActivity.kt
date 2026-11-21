@@ -147,7 +147,7 @@ fun App(vm: LensViewModel) {
                 Row(Modifier.padding(top = 6.dp), verticalAlignment = Alignment.CenterVertically) {
                     Text("Matched: ${pr.total}", modifier = Modifier.padding(end = 8.dp))
                     if (s.searching) CircularProgressIndicator(Modifier.size(16.dp), strokeWidth = 2.dp)
-                    Text(LensViewModel.realmLabel(s), fontSize = 12.sp, color = Dim, modifier = Modifier.weight(1f).padding(start = 8.dp))
+                    Spacer(Modifier.weight(1f))
                     OutlinedButton(onClick = { ctx.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(pr.url))) },
                         shape = RoundedCornerShape(4.dp), border = BorderStroke(1.dp, Lg.midlight),
                         colors = ButtonDefaults.outlinedButtonColors(containerColor = Lg.button, contentColor = Lg.windowText),
@@ -155,21 +155,21 @@ fun App(vm: LensViewModel) {
                 }
             }
             if (pr.listings.isNotEmpty()) item {
-                Row(Modifier.fillMaxWidth().padding(horizontal = 4.dp)) {
-                    Text("Price", Modifier.weight(1.4f), fontWeight = FontWeight.Bold)
-                    Text("iLvl", Modifier.weight(0.6f), fontWeight = FontWeight.Bold)
-                    Text("Listed", Modifier.weight(0.8f), fontWeight = FontWeight.Bold)
-                    Text("Seller", Modifier.weight(1.4f), fontWeight = FontWeight.Bold)
+                Row(Modifier.fillMaxWidth().padding(horizontal = 4.dp), horizontalArrangement = Arrangement.spacedBy(10.dp)) {
+                    Text("Price", Modifier.weight(1.8f), fontWeight = FontWeight.Bold)
+                    Text("iLvl", Modifier.width(ilvlWidth()), fontWeight = FontWeight.Bold, maxLines = 1)
+                    Text("Listed", Modifier.width(ageWidth()), fontWeight = FontWeight.Bold, maxLines = 1)
+                    Text("Seller", Modifier.weight(1.0f), fontWeight = FontWeight.Bold)
                 }
             }
             itemsIndexed(pr.listings) { i, l ->
                 // Zebra stripes from the text colour, as on the desktop.
                 Row(Modifier.fillMaxWidth().background(if (i % 2 == 1) Lg.windowText.copy(alpha = 0.05f) else Color.Transparent)
-                    .padding(horizontal = 4.dp, vertical = 5.dp)) {
-                    Text(l.price, Modifier.weight(1.4f), fontWeight = FontWeight.Bold, maxLines = 1)
-                    Text(l.ilvl?.takeIf { it > 0u }?.toString() ?: "—", Modifier.weight(0.6f))
-                    Text(l.age, Modifier.weight(0.8f), color = Lg.windowText.copy(alpha = 0.8f))
-                    Text(l.seller, Modifier.weight(1.4f), maxLines = 1, overflow = androidx.compose.ui.text.style.TextOverflow.Ellipsis,
+                    .padding(horizontal = 4.dp, vertical = 5.dp), horizontalArrangement = Arrangement.spacedBy(10.dp)) {
+                    Text(l.price, Modifier.weight(1.8f), fontWeight = FontWeight.Bold, maxLines = 1, overflow = androidx.compose.ui.text.style.TextOverflow.Ellipsis)
+                    Text(l.ilvl?.takeIf { it > 0u }?.toString() ?: "—", Modifier.width(ilvlWidth()), maxLines = 1)
+                    Text(l.age, Modifier.width(ageWidth()), maxLines = 1, color = Lg.windowText.copy(alpha = 0.8f))
+                    Text(l.seller, Modifier.weight(1.0f), maxLines = 1, overflow = androidx.compose.ui.text.style.TextOverflow.Ellipsis,
                         color = if (l.corrupted) Lg.red else Dim)
                 }
             }
@@ -184,6 +184,10 @@ fun App(vm: LensViewModel) {
         }
     }
 }
+
+// Listing columns sized in text units, so they grow with the phone's font size instead of wrapping.
+@Composable private fun ilvlWidth() = with(androidx.compose.ui.platform.LocalDensity.current) { 34.sp.toDp() }
+@Composable private fun ageWidth() = with(androidx.compose.ui.platform.LocalDensity.current) { 54.sp.toDp() }
 
 private fun modColor(kind: String) = when (kind) {
     "crafted" -> Color(0xFFB8DAF2); "fractured" -> Color(0xFFA29162); else -> Color(0xFF8888FF)

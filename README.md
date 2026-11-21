@@ -8,6 +8,12 @@ crossplay) → poe.ninja works end to end, and the camera (with zoom) has been u
 in front of an Xbox. Mod accuracy on real images: 93.5% on PoE 2 PC screenshots, 96% on phone
 photos of an Xbox TV; details in [RESULTS.md](RESULTS.md).
 
+<p align="center">
+  <img src="docs/screenshots/item.png" width="260" alt="A phone photo of an Xbox tooltip, read into a PoE 2 item">
+  <img src="docs/screenshots/filters.png" width="260" alt="Search filters: tap a row to switch it on or off, with min and max">
+  <img src="docs/screenshots/listings.png" width="260" alt="Matching trade listings, seller names blurred">
+</p>
+
 ## Install
 
 Download the APK from the [latest release](https://github.com/rockymontana/looting-glass-android/releases/latest)
