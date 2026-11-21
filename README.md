@@ -3,10 +3,7 @@
 Price check a Path of Exile item by **photographing its tooltip on a TV**. The OCR runs on the
 phone; the price search uses [Looting Glass](https://github.com/rockymontana/looting-glass)'s Rust core.
 
-**Status:** proof of concept. Photo → OCR → parse → trade search (PC, Xbox, PlayStation; PoE 2
-crossplay) → poe.ninja works end to end, and the camera (with zoom) has been used on a real phone
-in front of an Xbox. Mod accuracy on real images: 93.5% on PoE 2 PC screenshots, 96% on phone
-photos of an Xbox TV; details in [RESULTS.md](RESULTS.md).
+**Status:** proof of concept. Accuracy figures are in [RESULTS.md](RESULTS.md).
 
 <p align="center">
   <img src="docs/screenshots/item.png" width="260" alt="A phone photo of an Xbox tooltip, read into a PoE 2 item">
