@@ -47,3 +47,18 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           TAG: ${{ needs.release-please.outputs.tag }}
         run: gh release upload "$TAG" dist/* --repo "$GITHUB_REPOSITORY" --clobber
+
+      - uses: actions/checkout@v7
+        with:
+          sparse-checkout: .github/release-install.md
+          path: src
+
+      # release-please writes the changelog; add how to install the APK below it.
+      - name: Add install instructions to the notes
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ needs.release-please.outputs.tag }}
+        run: |
+          gh release view "$TAG" --repo "$GITHUB_REPOSITORY" --json body --jq .body > notes.md
+          sed "s/VERSION/${TAG#v}/g" src/.github/release-install.md >> notes.md
+          gh release edit "$TAG" --repo "$GITHUB_REPOSITORY" --notes-file notes.md
