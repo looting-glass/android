@@ -4,9 +4,15 @@ name: Build
 # - Manual run (Actions tab or `gh workflow run build.yml --ref <branch>`): a test build of any
 #   branch, versioned "<version.txt>-dev".
 # - Called by release-please.yml with a release tag: builds that tag for the GitHub release.
+# - Manual run with a tag: rebuilds that release's APK (attach it with `gh release upload`).
 # Signing uses the LG_KEYSTORE_* repository secrets (see AGENTS.md).
 on:
   workflow_dispatch:
+    inputs:
+      tag:
+        description: Release tag to rebuild (e.g. v0.2.0); empty = a test build of the chosen branch
+        type: string
+        required: false
   workflow_call:
     inputs:
       tag:
@@ -69,7 +75,8 @@ jobs:
           mkdir -p dist
           cp android/app/build/outputs/apk/release/app-release.apk "dist/$name"
           # Fail if the APK isn't signed with the release key (it would fall back to debug).
-          "$ANDROID_HOME"/build-tools/*/apksigner verify --print-certs "dist/$name" | tee /dev/stderr | grep -q "CN=Looting Glass"
+          apksigner=$(ls -d "$ANDROID_HOME"/build-tools/*/apksigner | sort -V | tail -1)
+          "$apksigner" verify --print-certs "dist/$name" | tee /dev/stderr | grep -q "CN=Looting Glass"
           (cd dist && sha256sum "$name" > "$name.sha256")
           rm -f "$LG_KEYSTORE_FILE"
 
