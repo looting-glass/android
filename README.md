@@ -1,11 +1,11 @@
 # Looting Glass for Android (proof of concept)
 
 Price check a Path of Exile item by **photographing its tooltip on a TV**. The OCR runs on the
-phone; the price search uses [Looting Glass](https://github.com/rockymontana/looting-glass)'s Rust core.
+phone; the price search uses [Looting Glass](https://github.com/looting-glass/desktop)'s Rust core.
 
 **Status:** proof of concept. Accuracy figures are in [RESULTS.md](RESULTS.md).
 
-**Website:** [rockymontana.github.io/looting-glass/android.html](https://rockymontana.github.io/looting-glass/android.html)
+**Website:** [looting-glass.github.io/android.html](https://looting-glass.github.io/android.html)
 
 <p align="center">
   <img src="docs/screenshots/item.png" width="260" alt="A phone photo of an Xbox tooltip, read into a PoE 2 item">
@@ -15,7 +15,7 @@ phone; the price search uses [Looting Glass](https://github.com/rockymontana/loo
 
 ## Install
 
-Download the APK from the [latest release](https://github.com/rockymontana/looting-glass-android/releases/latest)
+Download the APK from the [latest release](https://github.com/looting-glass/android/releases/latest)
 on the phone, open it and allow installing from your browser when Android asks. Needs Android 8
 or newer on a 64-bit phone.
 
