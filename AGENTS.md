@@ -3,7 +3,7 @@
 Looting Glass for Android price-checks Path of Exile items from a **phone photo of the item
 tooltip** (typically a console game on a TV). OCR runs on the phone (ML Kit); parsing and the
 trade search are a Rust core shared in spirit with the desktop app,
-[Looting Glass](https://github.com/rockymontana/looting-glass). `README.md` covers the layout,
+[Looting Glass](https://github.com/looting-glass/desktop). `README.md` covers the layout,
 how the parser works and the dev commands; `RESULTS.md` the measured accuracy. This file holds
 the conventions that aren't written down anywhere else.
 

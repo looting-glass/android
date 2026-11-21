@@ -1,5 +1,5 @@
 //! Looting Glass core for the Android proof of concept. `item`, `trade` and `ninja` come from the
-//! desktop app (github.com/rockymontana/looting-glass); `screen` is the new OCR-text parser.
+//! desktop app (github.com/looting-glass/desktop); `screen` is the new OCR-text parser.
 //!
 //! Fan-made; not affiliated with or endorsed by Grinding Gear Games.
 
