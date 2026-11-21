@@ -5,6 +5,8 @@ phone; the price search uses [Looting Glass](https://github.com/rockymontana/loo
 
 **Status:** proof of concept. Accuracy figures are in [RESULTS.md](RESULTS.md).
 
+**Website:** [rockymontana.github.io/looting-glass/android.html](https://rockymontana.github.io/looting-glass/android.html)
+
 <p align="center">
   <img src="docs/screenshots/item.png" width="260" alt="A phone photo of an Xbox tooltip, read into a PoE 2 item">
   <img src="docs/screenshots/filters.png" width="260" alt="Search filters: tap a row to switch it on or off, with min and max">
