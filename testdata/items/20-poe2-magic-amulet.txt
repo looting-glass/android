@@ -1,0 +1,12 @@
+Item Class: Amulets
+Rarity: Magic
+Sanguine Lapis Amulet of the Fox
+--------
+Requires: Level 40
+--------
+Item Level: 66
+--------
++12 to Intelligence (implicit)
+--------
++92 to maximum Life
++18 to Dexterity

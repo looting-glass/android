@@ -1,0 +1,23 @@
+Item Class: Bows
+Rarity: Rare
+Doom Fletch
+Thicket Bow
+--------
+Bow
+Physical Damage: 118-245 (augmented)
+Critical Strike Chance: 6.50%
+Attacks per Second: 1.63 (augmented)
+--------
+Requirements:
+Level: 56
+Dex: 159
+--------
+Item Level: 83
+--------
++1 to Level of Socketed Gems (implicit)
+--------
+134% increased Physical Damage
+Adds 14 to 26 Physical Damage
+16% increased Attack Speed
++28% to Global Critical Strike Multiplier
++34 to Dexterity

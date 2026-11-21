@@ -1,0 +1,173 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "DoOM FLETCH",
+   "left": 152,
+   "top": 12,
+   "right": 285,
+   "bottom": 31,
+   "color": [
+    211,
+    209,
+    97
+   ]
+  },
+  {
+   "text": "THICKET Bow",
+   "left": 153,
+   "top": 41,
+   "right": 283,
+   "bottom": 58,
+   "color": [
+    221,
+    219,
+    102
+   ]
+  },
+  {
+   "text": "Bow",
+   "left": 201,
+   "top": 86,
+   "right": 237,
+   "bottom": 100,
+   "color": [
+    114,
+    114,
+    113
+   ]
+  },
+  {
+   "text": "PHYSICAL DAMAGE: 118-245",
+   "left": 105,
+   "top": 112,
+   "right": 332,
+   "bottom": 125,
+   "color": [
+    112,
+    112,
+    146
+   ]
+  },
+  {
+   "text": "CRITICAL STRIKE CHANCE: 6.50%",
+   "left": 87,
+   "top": 136,
+   "right": 351,
+   "bottom": 152,
+   "color": [
+    119,
+    119,
+    118
+   ]
+  },
+  {
+   "text": "ATTACKS PER SECOND: 1.63",
+   "left": 110,
+   "top": 162,
+   "right": 327,
+   "bottom": 175,
+   "color": [
+    107,
+    107,
+    124
+   ]
+  },
+  {
+   "text": "REQUIRES LEVEL 56, 159 DEX",
+   "left": 110,
+   "top": 203,
+   "right": 336,
+   "bottom": 221,
+   "color": [
+    152,
+    152,
+    151
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 83",
+   "left": 158,
+   "top": 247,
+   "right": 280,
+   "bottom": 263,
+   "color": [
+    119,
+    119,
+    119
+   ]
+  },
+  {
+   "text": "+1 TO LEVEL OF SoCKETED GEMS",
+   "left": 94,
+   "top": 290,
+   "right": 348,
+   "bottom": 306,
+   "color": [
+    98,
+    98,
+    181
+   ]
+  },
+  {
+   "text": "134% NCREASED PHYSICAL DAMAGE",
+   "left": 75,
+   "top": 334,
+   "right": 364,
+   "bottom": 347,
+   "color": [
+    116,
+    116,
+    216
+   ]
+  },
+  {
+   "text": "ADDS 14 TO 26 PHYSICAL DAMAGE",
+   "left": 91,
+   "top": 358,
+   "right": 355,
+   "bottom": 374,
+   "color": [
+    103,
+    103,
+    190
+   ]
+  },
+  {
+   "text": "16% INCREASED ATTACK SPEED",
+   "left": 97,
+   "top": 383,
+   "right": 343,
+   "bottom": 397,
+   "color": [
+    112,
+    112,
+    208
+   ]
+  },
+  {
+   "text": "+28% TO GLOBAL CRITICAL STRIKE MULTIPLIER",
+   "left": 31,
+   "top": 409,
+   "right": 407,
+   "bottom": 422,
+   "color": [
+    115,
+    115,
+    214
+   ]
+  },
+  {
+   "text": "+34 TO DEXTERITY",
+   "left": 145,
+   "top": 432,
+   "right": 292,
+   "bottom": 447,
+   "color": [
+    106,
+    106,
+    197
+   ]
+  }
+ ]
+}

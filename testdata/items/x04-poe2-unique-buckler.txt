@@ -1,0 +1,19 @@
+Item Class: Bucklers
+Rarity: Unique
+Silverthorne
+Spiked Buckler
+--------
+Block chance: 20%
+Evasion Rating: 116 (augmented)
+--------
+Requires: Level 26, 38 Dex
+--------
+Grants Skill: Parry
+--------
+81% increased Evasion Rating
++15% to all Elemental Resistances
+Parrying applies 10 Stacks of Critical Weakness
+100% increased Parry Damage
+--------
+As a boy, in the arena, Daresso learned to
+feign weakness to open up a lethal blow.

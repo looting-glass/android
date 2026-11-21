@@ -1,0 +1,125 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "DUSK L0OP",
+   "left": 427,
+   "top": 131,
+   "right": 658,
+   "bottom": 181,
+   "color": [
+    151,
+    148,
+    89
+   ]
+  },
+  {
+   "text": "RUBY RING",
+   "left": 431,
+   "top": 194,
+   "right": 656,
+   "bottom": 243,
+   "color": [
+    156,
+    153,
+    94
+   ]
+  },
+  {
+   "text": "REQUIRES LEVEL 40",
+   "left": 384,
+   "top": 290,
+   "right": 711,
+   "bottom": 342,
+   "color": [
+    104,
+    104,
+    102
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 75",
+   "left": 420,
+   "top": 385,
+   "right": 673,
+   "bottom": 431,
+   "color": [
+    91,
+    91,
+    89
+   ]
+  },
+  {
+   "text": "+29% TO FIRE RESISTANCE",
+   "left": 336,
+   "top": 468,
+   "right": 767,
+   "bottom": 530,
+   "color": [
+    80,
+    78,
+    107
+   ]
+  },
+  {
+   "text": "+52 TO MAXIMUM LIFE",
+   "left": 375,
+   "top": 560,
+   "right": 731,
+   "bottom": 613,
+   "color": [
+    79,
+    77,
+    110
+   ]
+  },
+  {
+   "text": "ADDS 3 TO 7 FIRE DAMAGE TO ATTACKS",
+   "left": 243,
+   "top": 598,
+   "right": 867,
+   "bottom": 673,
+   "color": [
+    71,
+    69,
+    99
+   ]
+  },
+  {
+   "text": "+38% TO COLDRESISTANCE",
+   "left": 347,
+   "top": 654,
+   "right": 770,
+   "bottom": 718,
+   "color": [
+    72,
+    71,
+    102
+   ]
+  },
+  {
+   "text": "+21 TO STRENGTH",
+   "left": 416,
+   "top": 708,
+   "right": 694,
+   "bottom": 758,
+   "color": [
+    74,
+    72,
+    104
+   ]
+  },
+  {
+   "text": "CORRUPTED",
+   "left": 467,
+   "top": 794,
+   "right": 645,
+   "bottom": 838,
+   "color": [
+    97,
+    23,
+    24
+   ]
+  }
+ ]
+}

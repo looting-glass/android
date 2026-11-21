@@ -1,0 +1,185 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "HAVOC PALM",
+   "left": 408,
+   "top": 419,
+   "right": 709,
+   "bottom": 478,
+   "color": [
+    248,
+    247,
+    234
+   ]
+  },
+  {
+   "text": "GRIM GLOVES",
+   "left": 404,
+   "top": 479,
+   "right": 719,
+   "bottom": 535,
+   "color": [
+    250,
+    248,
+    235
+   ]
+  },
+  {
+   "text": "GLOVES",
+   "left": 494,
+   "top": 585,
+   "right": 635,
+   "bottom": 629,
+   "color": [
+    218,
+    234,
+    249
+   ]
+  },
+  {
+   "text": "IQUALITYRž0%",
+   "left": 388,
+   "top": 625,
+   "right": 710,
+   "bottom": 701,
+   "color": [
+    196,
+    213,
+    234
+   ]
+  },
+  {
+   "text": "ENERGY SHIELD: 54 t",
+   "left": 377,
+   "top": 698,
+   "right": 780,
+   "bottom": 756,
+   "color": [
+    210,
+    227,
+    244
+   ]
+  },
+  {
+   "text": "REQUIRES: LEVEL 65, 80 INT",
+   "left": 305,
+   "top": 779,
+   "right": 828,
+   "bottom": 838,
+   "color": [
+    228,
+    238,
+    247
+   ]
+  },
+  {
+   "text": "8% INCREASED ATTACK SPEED",
+   "left": 284,
+   "top": 863,
+   "right": 845,
+   "bottom": 925,
+   "color": [
+    230,
+    245,
+    251
+   ]
+  },
+  {
+   "text": "ADDS 2 To 40 LIGHTNING DAMAGE TO ATTACKS",
+   "left": 108,
+   "top": 942,
+   "right": 1015,
+   "bottom": 1011,
+   "color": [
+    208,
+    225,
+    245
+   ]
+  },
+  {
+   "text": "+72 TO AcCURACY RATING",
+   "left": 320,
+   "top": 1009,
+   "right": 821,
+   "bottom": 1068,
+   "color": [
+    210,
+    231,
+    249
+   ]
+  },
+  {
+   "text": "+37% TO FIRE RESISTANCE",
+   "left": 324,
+   "top": 1063,
+   "right": 821,
+   "bottom": 1124,
+   "color": [
+    210,
+    231,
+    249
+   ]
+  },
+  {
+   "text": "+42% TO CoLD RESISTANCE",
+   "left": 310,
+   "top": 1121,
+   "right": 836,
+   "bottom": 1181,
+   "color": [
+    209,
+    231,
+    250
+   ]
+  },
+  {
+   "text": "+36% TO LiGHTNING RESISTANCE",
+   "left": 254,
+   "top": 1185,
+   "right": 887,
+   "bottom": 1242,
+   "color": [
+    212,
+    234,
+    250
+   ]
+  },
+  {
+   "text": "ADDS 4 TO 8 PHYSICAL DAMAGE TO ATTACKS",
+   "left": 145,
+   "top": 1238,
+   "right": 990,
+   "bottom": 1295,
+   "color": [
+    191,
+    218,
+    249
+   ]
+  },
+  {
+   "text": "EQUIPPED",
+   "left": 494,
+   "top": 1333,
+   "right": 660,
+   "bottom": 1374,
+   "color": [
+    244,
+    248,
+    251
+   ]
+  },
+  {
+   "text": ") Unequip",
+   "left": 450,
+   "top": 1419,
+   "right": 716,
+   "bottom": 1493,
+   "color": [
+    198,
+    218,
+    235
+   ]
+  }
+ ]
+}

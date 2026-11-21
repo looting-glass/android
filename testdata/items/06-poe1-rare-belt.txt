@@ -1,0 +1,17 @@
+Item Class: Belts
+Rarity: Rare
+Kraken Lock
+Stygian Vise
+--------
+Requirements:
+Level: 64
+--------
+Item Level: 86
+--------
+Has 1 Abyssal Socket (implicit)
+--------
++98 to maximum Life
++42 to Strength
++37% to Cold Resistance
++33% to Lightning Resistance
+22% increased Flask Effect Duration

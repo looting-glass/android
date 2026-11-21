@@ -1,0 +1,125 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "GoLEM PELT",
+   "left": 110,
+   "top": 14,
+   "right": 228,
+   "bottom": 30,
+   "color": [
+    226,
+    224,
+    104
+   ]
+  },
+  {
+   "text": "VILE RoBE",
+   "left": 117,
+   "top": 40,
+   "right": 219,
+   "bottom": 59,
+   "color": [
+    212,
+    210,
+    98
+   ]
+  },
+  {
+   "text": "ENERGY SHIELD: 388",
+   "left": 87,
+   "top": 87,
+   "right": 251,
+   "bottom": 100,
+   "color": [
+    114,
+    114,
+    141
+   ]
+  },
+  {
+   "text": "REQUIRES: LEVEL 65, 121 NT",
+   "left": 63,
+   "top": 128,
+   "right": 286,
+   "bottom": 146,
+   "color": [
+    141,
+    141,
+    140
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 80",
+   "left": 108,
+   "top": 172,
+   "right": 230,
+   "bottom": 188,
+   "color": [
+    122,
+    122,
+    122
+   ]
+  },
+  {
+   "text": "+164 TO MAXIMUM ENERGY SHIELD",
+   "left": 31,
+   "top": 216,
+   "right": 308,
+   "bottom": 229,
+   "color": [
+    114,
+    114,
+    212
+   ]
+  },
+  {
+   "text": "+89 TO MAXIMUM LIFE",
+   "left": 81,
+   "top": 241,
+   "right": 257,
+   "bottom": 254,
+   "color": [
+    114,
+    114,
+    212
+   ]
+  },
+  {
+   "text": "+38% TO FIRE RESISTANCE",
+   "left": 64,
+   "top": 266,
+   "right": 274,
+   "bottom": 279,
+   "color": [
+    117,
+    117,
+    218
+   ]
+  },
+  {
+   "text": "+24% TO CHAOs RESISTANCE",
+   "left": 54,
+   "top": 290,
+   "right": 283,
+   "bottom": 306,
+   "color": [
+    102,
+    102,
+    189
+   ]
+  },
+  {
+   "text": "+19 TO INTELLIGENCE",
+   "left": 84,
+   "top": 315,
+   "right": 253,
+   "bottom": 330,
+   "color": [
+    103,
+    102,
+    189
+   ]
+  }
+ ]
+}

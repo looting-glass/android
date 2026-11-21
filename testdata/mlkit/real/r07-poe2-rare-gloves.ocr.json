@@ -1,0 +1,173 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "BROOD PAW",
+   "left": 411,
+   "top": 22,
+   "right": 554,
+   "bottom": 43,
+   "color": [
+    243,
+    214,
+    81
+   ]
+  },
+  {
+   "text": "GRIM GLOVES",
+   "left": 401,
+   "top": 52,
+   "right": 563,
+   "bottom": 72,
+   "color": [
+    241,
+    213,
+    80
+   ]
+  },
+  {
+   "text": "GLOVES",
+   "left": 446,
+   "top": 99,
+   "right": 518,
+   "bottom": 117,
+   "color": [
+    110,
+    110,
+    110
+   ]
+  },
+  {
+   "text": "ENERGY SHIELD: 45",
+   "left": 391,
+   "top": 128,
+   "right": 574,
+   "bottom": 147,
+   "color": [
+    114,
+    114,
+    113
+   ]
+  },
+  {
+   "text": "REQUIRES: LEVEL 65, 80 INT",
+   "left": 349,
+   "top": 166,
+   "right": 620,
+   "bottom": 185,
+   "color": [
+    150,
+    149,
+    143
+   ]
+  },
+  {
+   "text": "+35 TO MAXI MUM MANA",
+   "left": 356,
+   "top": 202,
+   "right": 608,
+   "bottom": 225,
+   "color": [
+    93,
+    93,
+    178
+   ]
+  },
+  {
+   "text": "14% INCREASED ATTACK SPEED",
+   "left": 333,
+   "top": 231,
+   "right": 632,
+   "bottom": 250,
+   "color": [
+    113,
+    113,
+    214
+   ]
+  },
+  {
+   "text": "+21% TO FIRE RESISTANCE",
+   "left": 352,
+   "top": 259,
+   "right": 612,
+   "bottom": 274,
+   "color": [
+    118,
+    118,
+    223
+   ]
+  },
+  {
+   "text": "23% INCREASED DURATION OF DAMAGING AILMENTS ON ENEMIES",
+   "left": 153,
+   "top": 285,
+   "right": 812,
+   "bottom": 304,
+   "color": [
+    152,
+    181,
+    200
+   ]
+  },
+  {
+   "text": "4 Wa",
+   "left": 931,
+   "top": 192,
+   "right": 982,
+   "bottom": 214,
+   "color": [
+    112,
+    55,
+    40
+   ]
+  },
+  {
+   "text": "Rit",
+   "left": 960,
+   "top": 225,
+   "right": 982,
+   "bottom": 243,
+   "color": [
+    144,
+    129,
+    92
+   ]
+  },
+  {
+   "text": "r",
+   "left": 971,
+   "top": 323,
+   "right": 975,
+   "bottom": 338,
+   "color": [
+    98,
+    113,
+    30
+   ]
+  },
+  {
+   "text": "Ab'",
+   "left": 951,
+   "top": 351,
+   "right": 979,
+   "bottom": 369,
+   "color": [
+    168,
+    152,
+    111
+   ]
+  },
+  {
+   "text": "Bui",
+   "left": 953,
+   "top": 384,
+   "right": 980,
+   "bottom": 400,
+   "color": [
+    179,
+    162,
+    118
+   ]
+  }
+ ]
+}

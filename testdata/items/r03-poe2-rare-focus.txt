@@ -1,0 +1,14 @@
+Item Class: Foci
+Rarity: Rare
+Wrath Weaver
+Cultist Focus
+--------
+Energy Shield: 57 (augmented)
+--------
+Requires: Level 59, 83 Int
+--------
+10% increased Energy Shield
++109 to maximum Mana
+23% increased Cast Speed
++29% to Fire Resistance
+30% increased Totem Placement speed (crafted)

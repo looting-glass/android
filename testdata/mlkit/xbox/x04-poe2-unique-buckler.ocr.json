@@ -1,0 +1,233 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "7ANUSSILVERTHORNE S",
+   "left": 215,
+   "top": 467,
+   "right": 936,
+   "bottom": 549,
+   "color": [
+    201,
+    161,
+    148
+   ]
+  },
+  {
+   "text": "SPIKED BUCKLER",
+   "left": 385,
+   "top": 515,
+   "right": 634,
+   "bottom": 560,
+   "color": [
+    233,
+    170,
+    153
+   ]
+  },
+  {
+   "text": "BUCKLER",
+   "left": 452,
+   "top": 585,
+   "right": 565,
+   "bottom": 622,
+   "color": [
+    211,
+    220,
+    234
+   ]
+  },
+  {
+   "text": "ck Edit Search",
+   "left": 0,
+   "top": 1453,
+   "right": 230,
+   "bottom": 1509,
+   "color": [
+    199,
+    203,
+    199
+   ]
+  },
+  {
+   "text": "BLOCK CHANCE: 20%",
+   "left": 379,
+   "top": 615,
+   "right": 641,
+   "bottom": 658,
+   "color": [
+    200,
+    209,
+    222
+   ]
+  },
+  {
+   "text": "EVASION RATING: 116",
+   "left": 377,
+   "top": 647,
+   "right": 650,
+   "bottom": 699,
+   "color": [
+    202,
+    205,
+    222
+   ]
+  },
+  {
+   "text": "REQUIRES: LEVEL 26, 38 DEX",
+   "left": 338,
+   "top": 696,
+   "right": 683,
+   "bottom": 752,
+   "color": [
+    207,
+    198,
+    211
+   ]
+  },
+  {
+   "text": "GRANTS SKILL: PARRY",
+   "left": 403,
+   "top": 757,
+   "right": 670,
+   "bottom": 807,
+   "color": [
+    174,
+    181,
+    219
+   ]
+  },
+  {
+   "text": "81% INCREASED EVASION RATING",
+   "left": 302,
+   "top": 800,
+   "right": 718,
+   "bottom": 861,
+   "color": [
+    177,
+    185,
+    223
+   ]
+  },
+  {
+   "text": "+15% TO ALL ELEMENTAL RESISTANCES",
+   "left": 272,
+   "top": 833,
+   "right": 749,
+   "bottom": 900,
+   "color": [
+    179,
+    197,
+    237
+   ]
+  },
+  {
+   "text": "PARRYING APPLIES 10 STACKS OF CRITICAL WEAKNESS",
+   "left": 182,
+   "top": 857,
+   "right": 841,
+   "bottom": 945,
+   "color": [
+    167,
+    185,
+    228
+   ]
+  },
+  {
+   "text": "100% INCREAŞED PARRY DAMAGE",
+   "left": 306,
+   "top": 903,
+   "right": 712,
+   "bottom": 969,
+   "color": [
+    185,
+    192,
+    227
+   ]
+  },
+  {
+   "text": "As A BOY, IN THE ARENA, DARESSO LÈARNEDTO",
+   "left": 228,
+   "top": 943,
+   "right": 797,
+   "bottom": 1018,
+   "color": [
+    195,
+    170,
+    180
+   ]
+  },
+  {
+   "text": "FEIGN WEAKNESS TO OPEN UP A LETHAL BLOW.",
+   "left": 229,
+   "top": 975,
+   "right": 794,
+   "bottom": 1056,
+   "color": [
+    189,
+    160,
+    165
+   ]
+  },
+  {
+   "text": "Equip(Y) Ünstash",
+   "left": 411,
+   "top": 1049,
+   "right": 683,
+   "bottom": 1108,
+   "color": [
+    164,
+    171,
+    184
+   ]
+  },
+  {
+   "text": "Clear Search LT Toggle Chat",
+   "left": 321,
+   "top": 1499,
+   "right": 684,
+   "bottom": 1571,
+   "color": [
+    206,
+    200,
+    192
+   ]
+  },
+  {
+   "text": "1",
+   "left": 734,
+   "top": 965,
+   "right": 742,
+   "bottom": 979,
+   "color": [
+    168,
+    173,
+    223
+   ]
+  },
+  {
+   "text": "Compare R",
+   "left": 829,
+   "top": 1158,
+   "right": 997,
+   "bottom": 1203,
+   "color": [
+    183,
+    189,
+    195
+   ]
+  },
+  {
+   "text": "&4,841,262",
+   "left": 875,
+   "top": 1435,
+   "right": 1044,
+   "bottom": 1479,
+   "color": [
+    189,
+    191,
+    180
+   ]
+  }
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "GALE EDGE",
+   "left": 122,
+   "top": 13,
+   "right": 230,
+   "bottom": 30,
+   "color": [
+    218,
+    216,
+    101
+   ]
+  },
+  {
+   "text": "EzOMYTE AXE",
+   "left": 108,
+   "top": 42,
+   "right": 242,
+   "bottom": 58,
+   "color": [
+    222,
+    221,
+    103
+   ]
+  },
+  {
+   "text": "Two HAND AXE",
+   "left": 118,
+   "top": 85,
+   "right": 239,
+   "bottom": 102,
+   "color": [
+    92,
+    92,
+    91
+   ]
+  },
+  {
+   "text": "QUALITY: +8%",
+   "left": 127,
+   "top": 110,
+   "right": 233,
+   "bottom": 128,
+   "color": [
+    87,
+    86,
+    116
+   ]
+  },
+  {
+   "text": "PHYSICAL DAMAGE: 120-200",
+   "left": 62,
+   "top": 136,
+   "right": 288,
+   "bottom": 150,
+   "color": [
+    110,
+    110,
+    144
+   ]
+  },
+  {
+   "text": "ELEMENTAL DAMAGE: 20-40",
+   "left": 63,
+   "top": 162,
+   "right": 287,
+   "bottom": 175,
+   "color": [
+    112,
+    111,
+    138
+   ]
+  },
+  {
+   "text": "CRITICAL STRIKE CHANCE: 5.00%",
+   "left": 44,
+   "top": 186,
+   "right": 307,
+   "bottom": 202,
+   "color": [
+    119,
+    119,
+    118
+   ]
+  },
+  {
+   "text": "ATTACKS PER SECcOND: 1.32",
+   "left": 76,
+   "top": 210,
+   "right": 284,
+   "bottom": 227,
+   "color": [
+    90,
+    90,
+    104
+   ]
+  },
+  {
+   "text": "REQUIRES LEVEL 62",
+   "left": 106,
+   "top": 253,
+   "right": 252,
+   "bottom": 270,
+   "color": [
+    142,
+    142,
+    141
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 81",
+   "left": 114,
+   "top": 298,
+   "right": 234,
+   "bottom": 311,
+   "color": [
+    131,
+    131,
+    131
+   ]
+  },
+  {
+   "text": "112% INCREASED PHYSICAL DAMAGE",
+   "left": 32,
+   "top": 341,
+   "right": 320,
+   "bottom": 354,
+   "color": [
+    116,
+    115,
+    215
+   ]
+  },
+  {
+   "text": "ADDS 20 TO 40 FIRE DAMAGE",
+   "left": 58,
+   "top": 366,
+   "right": 291,
+   "bottom": 379,
+   "color": [
+    118,
+    118,
+    220
+   ]
+  },
+  {
+   "text": "10% INCREASED ATTACK SPEED",
+   "left": 53,
+   "top": 391,
+   "right": 299,
+   "bottom": 404,
+   "color": [
+    116,
+    116,
+    216
+   ]
+  },
+  {
+   "text": "+25 TO STRENGTH",
+   "left": 104,
+   "top": 415,
+   "right": 246,
+   "bottom": 430,
+   "color": [
+    105,
+    105,
+    194
+   ]
+  },
+  {
+   "text": "+30% TO COLD RESISTANCE",
+   "left": 66,
+   "top": 441,
+   "right": 285,
+   "bottom": 454,
+   "color": [
+    115,
+    114,
+    213
+   ]
+  }
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "LOATH RAM",
+   "left": 1005,
+   "top": 207,
+   "right": 1232,
+   "bottom": 243,
+   "color": [
+    157,
+    153,
+    89
+   ]
+  },
+  {
+   "text": "RATTLING SCEPTRE",
+   "left": 938,
+   "top": 258,
+   "right": 1298,
+   "bottom": 296,
+   "color": [
+    151,
+    148,
+    87
+   ]
+  },
+  {
+   "text": "QUALITY: +20%",
+   "left": 986,
+   "top": 340,
+   "right": 1243,
+   "bottom": 380,
+   "color": [
+    74,
+    73,
+    88
+   ]
+  },
+  {
+   "text": "SPIRIT: 144",
+   "left": 1025,
+   "top": 390,
+   "right": 1201,
+   "bottom": 421,
+   "color": [
+    85,
+    84,
+    101
+   ]
+  },
+  {
+   "text": "REQUIRES: LEVEL 62",
+   "left": 969,
+   "top": 468,
+   "right": 1274,
+   "bottom": 508,
+   "color": [
+    102,
+    102,
+    100
+   ]
+  },
+  {
+   "text": "SoCKETS: S",
+   "left": 1016,
+   "top": 553,
+   "right": 1197,
+   "bottom": 583,
+   "color": [
+    96,
+    96,
+    94
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 79",
+   "left": 978,
+   "top": 635,
+   "right": 1230,
+   "bottom": 665,
+   "color": [
+    99,
+    99,
+    97
+   ]
+  },
+  {
+   "text": "MINIONS IN YOUR PRESENCE HAVE ONSLAUGHT WHILE YOU ARE ON Low RUNIC WARD",
+   "left": 428,
+   "top": 716,
+   "right": 1803,
+   "bottom": 752,
+   "color": [
+    90,
+    88,
+    125
+   ]
+  },
+  {
+   "text": "GRANTS SKILL: LEVEL 17 SKELETAL WARRIOR MINION",
+   "left": 688,
+   "top": 798,
+   "right": 1543,
+   "bottom": 835,
+   "color": [
+    123,
+    123,
+    121
+   ]
+  },
+  {
+   "text": "ALLIES IN YOUR PRESENCE DEAL 74% INCREASED DAMAGE",
+   "left": 632,
+   "top": 885,
+   "right": 1570,
+   "bottom": 914,
+   "color": [
+    98,
+    96,
+    136
+   ]
+  },
+  {
+   "text": "+13 TO MAXIMUM MANA",
+   "left": 896,
+   "top": 935,
+   "right": 1294,
+   "bottom": 961,
+   "color": [
+    98,
+    96,
+    141
+   ]
+  },
+  {
+   "text": "44% INCREASED SPIRIT",
+   "left": 909,
+   "top": 984,
+   "right": 1278,
+   "bottom": 1009,
+   "color": [
+    103,
+    100,
+    143
+   ]
+  },
+  {
+   "text": "70% INCREASED PRESENCE AREA OF EFFE CT",
+   "left": 740,
+   "top": 1030,
+   "right": 1451,
+   "bottom": 1061,
+   "color": [
+    96,
+    95,
+    135
+   ]
+  },
+  {
+   "text": "ALLIES IN YOUR PRESENCE HAVE 6% INCREASED ATTACK SPEED",
+   "left": 583,
+   "top": 1081,
+   "right": 1607,
+   "bottom": 1108,
+   "color": [
+    98,
+    96,
+    138
+   ]
+  },
+  {
+   "text": "+4 TO LEVEL OF ALL MINION SKILLS",
+   "left": 798,
+   "top": 1129,
+   "right": 1380,
+   "bottom": 1156,
+   "color": [
+    95,
+    93,
+    136
+   ]
+  }
+ ]
+}

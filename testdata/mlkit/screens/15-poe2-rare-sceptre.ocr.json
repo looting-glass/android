@@ -1,0 +1,185 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "LOATH RAM",
+   "left": 308,
+   "top": 12,
+   "right": 422,
+   "bottom": 30,
+   "color": [
+    215,
+    212,
+    99
+   ]
+  },
+  {
+   "text": "RATTLING SCEPTRE",
+   "left": 275,
+   "top": 42,
+   "right": 455,
+   "bottom": 57,
+   "color": [
+    212,
+    210,
+    98
+   ]
+  },
+  {
+   "text": "QUALITY: +20%",
+   "left": 302,
+   "top": 84,
+   "right": 427,
+   "bottom": 102,
+   "color": [
+    89,
+    89,
+    120
+   ]
+  },
+  {
+   "text": "SPIRIT: 144",
+   "left": 322,
+   "top": 112,
+   "right": 409,
+   "bottom": 124,
+   "color": [
+    111,
+    110,
+    150
+   ]
+  },
+  {
+   "text": "REQUIRES: LEVEL 62",
+   "left": 294,
+   "top": 152,
+   "right": 445,
+   "bottom": 170,
+   "color": [
+    133,
+    132,
+    132
+   ]
+  },
+  {
+   "text": "SoCKETS: S",
+   "left": 321,
+   "top": 197,
+   "right": 410,
+   "bottom": 211,
+   "color": [
+    120,
+    120,
+    120
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 79",
+   "left": 303,
+   "top": 240,
+   "right": 426,
+   "bottom": 254,
+   "color": [
+    120,
+    120,
+    120
+   ]
+  },
+  {
+   "text": "MINIONS IN YOUR PRESENCE HAVE ONSLAUGHT WHILE YOU ARE ON LOw RUNIC WARD",
+   "left": 31,
+   "top": 283,
+   "right": 701,
+   "bottom": 298,
+   "color": [
+    104,
+    103,
+    192
+   ]
+  },
+  {
+   "text": "GRANTs SKILL: LEVEL 17 SKELETAL WARRIOR MINION",
+   "left": 159,
+   "top": 326,
+   "right": 579,
+   "bottom": 342,
+   "color": [
+    164,
+    164,
+    164
+   ]
+  },
+  {
+   "text": "ALLIES IN YOUR PRESENCE DEAL 74% INCREASED DAMAGE",
+   "left": 137,
+   "top": 370,
+   "right": 593,
+   "bottom": 383,
+   "color": [
+    114,
+    113,
+    211
+   ]
+  },
+  {
+   "text": "+13 TO MAXIMUM MANA",
+   "left": 269,
+   "top": 395,
+   "right": 462,
+   "bottom": 408,
+   "color": [
+    110,
+    110,
+    205
+   ]
+  },
+  {
+   "text": "44% INCREASED SPIRIT",
+   "left": 276,
+   "top": 420,
+   "right": 455,
+   "bottom": 433,
+   "color": [
+    118,
+    117,
+    219
+   ]
+  },
+  {
+   "text": "70% INCREASED PRESENCE AREA OF EFFECT",
+   "left": 194,
+   "top": 445,
+   "right": 537,
+   "bottom": 458,
+   "color": [
+    117,
+    116,
+    217
+   ]
+  },
+  {
+   "text": "ALLIES IN YOUR PRESENCE HAVE 6% INCREASED ATTACK SPEED",
+   "left": 117,
+   "top": 470,
+   "right": 613,
+   "bottom": 483,
+   "color": [
+    114,
+    113,
+    211
+   ]
+  },
+  {
+   "text": "+4 TO LEVEL OF ALL MINION SKILLS",
+   "left": 224,
+   "top": 495,
+   "right": 506,
+   "bottom": 508,
+   "color": [
+    109,
+    109,
+    202
+   ]
+  }
+ ]
+}

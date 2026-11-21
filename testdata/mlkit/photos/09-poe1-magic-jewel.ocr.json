@@ -1,0 +1,65 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "VIVID COBALT JEWEL OF EASE",
+   "left": 1004,
+   "top": 83,
+   "right": 1553,
+   "bottom": 125,
+   "color": [
+    89,
+    81,
+    117
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 80",
+   "left": 1174,
+   "top": 171,
+   "right": 1409,
+   "bottom": 211,
+   "color": [
+    77,
+    77,
+    75
+   ]
+  },
+  {
+   "text": "7% INCREASED MAXIMUM LIFE",
+   "left": 1082,
+   "top": 264,
+   "right": 1534,
+   "bottom": 294,
+   "color": [
+    74,
+    72,
+    113
+   ]
+  },
+  {
+   "text": "12% INCREASED CAST SPEED",
+   "left": 1105,
+   "top": 313,
+   "right": 1532,
+   "bottom": 343,
+   "color": [
+    75,
+    72,
+    113
+   ]
+  },
+  {
+   "text": "PLACE INTO AN ALLOCATED JEWEL SOCKET ON THE PASSIVE SKILL TREE. RIGHT CLICK TO REMOVE FROM THE SOCKET.",
+   "left": 492,
+   "top": 395,
+   "right": 2215,
+   "bottom": 429,
+   "color": [
+    65,
+    64,
+    62
+   ]
+  }
+ ]
+}

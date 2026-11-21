@@ -1,0 +1,18 @@
+Item Class: Amulets
+Rarity: Rare
+Storm Talisman
+Onyx Amulet
+--------
+Requirements:
+Level: 56
+--------
+Item Level: 84
+--------
++14 to all Attributes (implicit)
+--------
++64 to maximum Life
++41% to Lightning Resistance
+24% increased Global Critical Strike Chance
++31% to Global Critical Strike Multiplier
++43 to maximum Energy Shield
++25% to Fire Resistance (crafted)

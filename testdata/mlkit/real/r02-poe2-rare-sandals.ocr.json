@@ -1,0 +1,209 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "PHOENIX HoOF",
+   "left": 237,
+   "top": 16,
+   "right": 419,
+   "bottom": 37,
+   "color": [
+    242,
+    214,
+    81
+   ]
+  },
+  {
+   "text": "FEATHERED SANDALS",
+   "left": 205,
+   "top": 46,
+   "right": 451,
+   "bottom": 65,
+   "color": [
+    241,
+    213,
+    80
+   ]
+  },
+  {
+   "text": "BOOTS",
+   "left": 298,
+   "top": 94,
+   "right": 358,
+   "bottom": 111,
+   "color": [
+    119,
+    119,
+    119
+   ]
+  },
+  {
+   "text": "ENERGY SHIELD: 81",
+   "left": 236,
+   "top": 122,
+   "right": 419,
+   "bottom": 137,
+   "color": [
+    116,
+    116,
+    133
+   ]
+  },
+  {
+   "text": "REQUIRES: LEVEL 33, 45 INT",
+   "left": 194,
+   "top": 160,
+   "right": 465,
+   "bottom": 180,
+   "color": [
+    139,
+    138,
+    133
+   ]
+  },
+  {
+   "text": "en",
+   "left": 490,
+   "top": 171,
+   "right": 507,
+   "bottom": 189,
+   "color": [
+    31,
+    35,
+    10
+   ]
+  },
+  {
+   "text": "20% INCREASED MoVEMENT SPEED",
+   "left": 156,
+   "top": 194,
+   "right": 498,
+   "bottom": 220,
+   "color": [
+    91,
+    92,
+    173
+   ]
+  },
+  {
+   "text": "TO MAXIMUM ENERGY SHIELD.",
+   "left": 199,
+   "top": 224,
+   "right": 503,
+   "bottom": 244,
+   "color": [
+    107,
+    107,
+    204
+   ]
+  },
+  {
+   "text": "+55 TO MAXIMUM MANA",
+   "left": 202,
+   "top": 253,
+   "right": 453,
+   "bottom": 270,
+   "color": [
+    116,
+    116,
+    219
+   ]
+  },
+  {
+   "text": "6.3 LIFE REGENERATION PER SECOND",
+   "left": 149,
+   "top": 280,
+   "right": 504,
+   "bottom": 298,
+   "color": [
+    116,
+    116,
+    220
+   ]
+  },
+  {
+   "text": "Ritual",
+   "left": 523,
+   "top": 79,
+   "right": 582,
+   "bottom": 97,
+   "color": [
+    44,
+    39,
+    26
+   ]
+  },
+  {
+   "text": "Doable Itee",
+   "left": 533,
+   "top": 109,
+   "right": 664,
+   "bottom": 131,
+   "color": [
+    36,
+    28,
+    0
+   ]
+  },
+  {
+   "text": "Doable Iterns",
+   "left": 531,
+   "top": 141,
+   "right": 656,
+   "bottom": 161,
+   "color": [
+    36,
+    28,
+    0
+   ]
+  },
+  {
+   "text": "Trash",
+   "left": 519,
+   "top": 172,
+   "right": 577,
+   "bottom": 191,
+   "color": [
+    41,
+    37,
+    22
+   ]
+  },
+  {
+   "text": "Abvss",
+   "left": 528,
+   "top": 201,
+   "right": 582,
+   "bottom": 222,
+   "color": [
+    34,
+    30,
+    19
+   ]
+  },
+  {
+   "text": "Builds",
+   "left": 523,
+   "top": 235,
+   "right": 584,
+   "bottom": 253,
+   "color": [
+    43,
+    38,
+    25
+   ]
+  },
+  {
+   "text": "ESsences",
+   "left": 523,
+   "top": 270,
+   "right": 609,
+   "bottom": 286,
+   "color": [
+    24,
+    12,
+    35
+   ]
+  }
+ ]
+}

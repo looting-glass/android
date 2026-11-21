@@ -1,0 +1,14 @@
+Item Class: Helmets
+Rarity: Unique
+Goldrim
+Leather Cap
+--------
+Evasion Rating: 82 (augmented)
+--------
+Item Level: 70
+--------
++50 to Evasion Rating
+10% increased Rarity of Items found
++36% to all Elemental Resistances
+--------
+No metal slips as easily through the fingers as gold.

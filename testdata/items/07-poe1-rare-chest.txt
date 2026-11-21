@@ -1,0 +1,21 @@
+Item Class: Body Armours
+Rarity: Rare
+Havoc Shell
+Astral Plate
+--------
+Quality: +20% (augmented)
+Armour: 1520 (augmented)
+--------
+Requirements:
+Level: 62
+Str: 180
+--------
+Item Level: 85
+--------
++11% to all Elemental Resistances (implicit)
+--------
++112 to maximum Life
+94% increased Armour
++44% to Fire Resistance
++12% to Chaos Resistance
+Reflects 30 Physical Damage to Melee Attackers

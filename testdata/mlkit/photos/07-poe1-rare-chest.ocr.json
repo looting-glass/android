@@ -1,0 +1,149 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "HAVOC SHELL",
+   "left": 644,
+   "top": 153,
+   "right": 904,
+   "bottom": 188,
+   "color": [
+    162,
+    159,
+    103
+   ]
+  },
+  {
+   "text": "AsTRAL PLATE",
+   "left": 637,
+   "top": 208,
+   "right": 908,
+   "bottom": 250,
+   "color": [
+    153,
+    150,
+    96
+   ]
+  },
+  {
+   "text": "QUALITY: +20%",
+   "left": 647,
+   "top": 306,
+   "right": 898,
+   "bottom": 341,
+   "color": [
+    90,
+    90,
+    106
+   ]
+  },
+  {
+   "text": "ARMOUR: 1520",
+   "left": 654,
+   "top": 358,
+   "right": 887,
+   "bottom": 389,
+   "color": [
+    95,
+    94,
+    111
+   ]
+  },
+  {
+   "text": "REQUIRESs LEVEL 62, 180 STR",
+   "left": 559,
+   "top": 443,
+   "right": 997,
+   "bottom": 485,
+   "color": [
+    116,
+    116,
+    114
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 85",
+   "left": 650,
+   "top": 536,
+   "right": 887,
+   "bottom": 568,
+   "color": [
+    99,
+    99,
+    97
+   ]
+  },
+  {
+   "text": "+11% To ALL ELEMENTAL RESISTANCES",
+   "left": 469,
+   "top": 617,
+   "right": 1069,
+   "bottom": 660,
+   "color": [
+    76,
+    74,
+    110
+   ]
+  },
+  {
+   "text": "+112 TO MAXIMUM LIFE",
+   "left": 585,
+   "top": 708,
+   "right": 944,
+   "bottom": 745,
+   "color": [
+    77,
+    75,
+    114
+   ]
+  },
+  {
+   "text": "94% INCRE AS ED ARMOUR",
+   "left": 572,
+   "top": 758,
+   "right": 954,
+   "bottom": 795,
+   "color": [
+    78,
+    76,
+    116
+   ]
+  },
+  {
+   "text": "+44% TO FIRE RESISTANCE",
+   "left": 562,
+   "top": 806,
+   "right": 965,
+   "bottom": 848,
+   "color": [
+    72,
+    71,
+    108
+   ]
+  },
+  {
+   "text": "+12% TO CHAOS RESISTANCE",
+   "left": 542,
+   "top": 854,
+   "right": 981,
+   "bottom": 901,
+   "color": [
+    67,
+    65,
+    101
+   ]
+  },
+  {
+   "text": "REFLECTS 30 PHYSICAL DAMAGE TO MELEE ATTACKERS",
+   "left": 350,
+   "top": 899,
+   "right": 1182,
+   "bottom": 955,
+   "color": [
+    62,
+    60,
+    95
+   ]
+  }
+ ]
+}

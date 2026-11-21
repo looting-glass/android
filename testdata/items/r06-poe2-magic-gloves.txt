@@ -1,0 +1,10 @@
+Item Class: Gloves
+Rarity: Magic
+Incinerating Gold Gloves of the Desperate
+--------
+Energy Shield: 42
+--------
+Requires: Level 59, 73 Int
+--------
+Adds 14 to 27 Fire damage to Attacks
+Leech 8% of Physical Attack Damage as Mana

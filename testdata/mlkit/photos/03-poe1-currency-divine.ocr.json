@@ -1,0 +1,41 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "DIVINE ORB",
+   "left": 943,
+   "top": 67,
+   "right": 1160,
+   "bottom": 105,
+   "color": [
+    111,
+    100,
+    82
+   ]
+  },
+  {
+   "text": "STACK SIZE:3\/20",
+   "left": 934,
+   "top": 158,
+   "right": 1200,
+   "bottom": 187,
+   "color": [
+    94,
+    94,
+    92
+   ]
+  },
+  {
+   "text": "RANDOMISES THE NUMERIC VALUES OF THE RANDOM MODIFIERS ON AN ITEM",
+   "left": 498,
+   "top": 246,
+   "right": 1640,
+   "bottom": 273,
+   "color": [
+    74,
+    74,
+    72
+   ]
+  }
+ ]
+}

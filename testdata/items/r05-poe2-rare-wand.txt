@@ -1,0 +1,15 @@
+Item Class: Wands
+Rarity: Rare
+Corruption Scratch
+Galvanic Wand
+--------
+Quality: +14% (augmented)
+--------
+Requires: Level 52, 46 Int
+--------
+Grants Skill: Level 17 Galvanic Field
+--------
++58 to maximum Mana
+17% increased Cast Speed
+Gain 34 Life per enemy killed
+25% increased effect of Socketed Augment Items (crafted)

@@ -1,0 +1,125 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "HAVOC STRIDE",
+   "left": 373,
+   "top": 144,
+   "right": 655,
+   "bottom": 189,
+   "color": [
+    146,
+    142,
+    90
+   ]
+  },
+  {
+   "text": "SLINK BooTS",
+   "left": 390,
+   "top": 203,
+   "right": 638,
+   "bottom": 242,
+   "color": [
+    150,
+    147,
+    95
+   ]
+  },
+  {
+   "text": "EVASION RATING: 260",
+   "left": 338,
+   "top": 291,
+   "right": 687,
+   "bottom": 324,
+   "color": [
+    89,
+    88,
+    95
+   ]
+  },
+  {
+   "text": "REQUIRES LEVEL 69",
+   "left": 361,
+   "top": 375,
+   "right": 668,
+   "bottom": 415,
+   "color": [
+    107,
+    106,
+    104
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 82",
+   "left": 394,
+   "top": 460,
+   "right": 639,
+   "bottom": 496,
+   "color": [
+    96,
+    96,
+    94
+   ]
+  },
+  {
+   "text": "+52 TO MAXIMUM LIFE",
+   "left": 338,
+   "top": 543,
+   "right": 691,
+   "bottom": 583,
+   "color": [
+    82,
+    80,
+    115
+   ]
+  },
+  {
+   "text": "25% INCREASED MoVEMENT SPEED",
+   "left": 232,
+   "top": 586,
+   "right": 778,
+   "bottom": 639,
+   "color": [
+    74,
+    72,
+    105
+   ]
+  },
+  {
+   "text": "+31% TO COLD RESISTANCE",
+   "left": 294,
+   "top": 637,
+   "right": 728,
+   "bottom": 688,
+   "color": [
+    70,
+    68,
+    101
+   ]
+  },
+  {
+   "text": "+24% TO LIGHTNING RESISTANCE",
+   "left": 248,
+   "top": 681,
+   "right": 771,
+   "bottom": 742,
+   "color": [
+    63,
+    62,
+    92
+   ]
+  },
+  {
+   "text": "+18 TO DEXTERITY",
+   "left": 379,
+   "top": 736,
+   "right": 664,
+   "bottom": 785,
+   "color": [
+    69,
+    67,
+    102
+   ]
+  }
+ ]
+}

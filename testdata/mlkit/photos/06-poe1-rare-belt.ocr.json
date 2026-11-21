@@ -1,0 +1,125 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "KRAKEN LOCK",
+   "left": 510,
+   "top": 128,
+   "right": 784,
+   "bottom": 176,
+   "color": [
+    136,
+    131,
+    76
+   ]
+  },
+  {
+   "text": "STYGIAN VISE",
+   "left": 513,
+   "top": 184,
+   "right": 775,
+   "bottom": 224,
+   "color": [
+    141,
+    137,
+    81
+   ]
+  },
+  {
+   "text": "REQUIRES LEVEL 64",
+   "left": 499,
+   "top": 268,
+   "right": 798,
+   "bottom": 310,
+   "color": [
+    100,
+    100,
+    98
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 86",
+   "left": 508,
+   "top": 352,
+   "right": 764,
+   "bottom": 389,
+   "color": [
+    94,
+    94,
+    92
+   ]
+  },
+  {
+   "text": "HAS 1 ABYSSAL SoCKET",
+   "left": 432,
+   "top": 437,
+   "right": 829,
+   "bottom": 478,
+   "color": [
+    86,
+    85,
+    122
+   ]
+  },
+  {
+   "text": "+98 TO MAXIMUM LIFE",
+   "left": 441,
+   "top": 527,
+   "right": 812,
+   "bottom": 565,
+   "color": [
+    89,
+    87,
+    126
+   ]
+  },
+  {
+   "text": "+42 TO STRENGTH",
+   "left": 475,
+   "top": 577,
+   "right": 772,
+   "bottom": 619,
+   "color": [
+    85,
+    84,
+    121
+   ]
+  },
+  {
+   "text": "+37% TO COLD RESISTANCE",
+   "left": 385,
+   "top": 628,
+   "right": 853,
+   "bottom": 675,
+   "color": [
+    81,
+    79,
+    115
+   ]
+  },
+  {
+   "text": "+33% TO LIGHTNING RESISTANCE",
+   "left": 338,
+   "top": 680,
+   "right": 896,
+   "bottom": 726,
+   "color": [
+    82,
+    80,
+    117
+   ]
+  },
+  {
+   "text": "22% INCREASED FLASK EFFECT DURATION",
+   "left": 256,
+   "top": 735,
+   "right": 964,
+   "bottom": 779,
+   "color": [
+    83,
+    81,
+    120
+   ]
+  }
+ ]
+}

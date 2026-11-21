@@ -1,0 +1,18 @@
+Item Class: Gloves
+Rarity: Rare
+Havoc Palm
+Grim Gloves
+--------
+Quality: +20% (augmented)
+Energy Shield: 54 (augmented)
+--------
+Requires: Level 65, 80 Int
+--------
+8% increased Attack Speed (rune)
+--------
+Adds 2 to 40 Lightning damage to Attacks
++72 to Accuracy Rating
++37% to Fire Resistance
++42% to Cold Resistance
++36% to Lightning Resistance
+Adds 4 to 8 Physical Damage to Attacks

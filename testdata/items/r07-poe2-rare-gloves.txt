@@ -1,0 +1,13 @@
+Item Class: Gloves
+Rarity: Rare
+Brood Paw
+Grim Gloves
+--------
+Energy Shield: 45
+--------
+Requires: Level 65, 80 Int
+--------
++35 to maximum Mana
+14% increased Attack Speed
++21% to Fire Resistance
+23% increased Duration of Damaging Ailments on Enemies (crafted)

@@ -1,0 +1,18 @@
+Item Class: Rings
+Rarity: Rare
+Dusk Loop
+Ruby Ring
+--------
+Requirements:
+Level: 40
+--------
+Item Level: 75
+--------
++29% to Fire Resistance (implicit)
+--------
++52 to maximum Life
+Adds 3 to 7 Fire Damage to Attacks
++38% to Cold Resistance
++21 to Strength
+--------
+Corrupted

@@ -1,0 +1,45 @@
+name: CI
+
+# Test the Rust core, check parser accuracy against the saved OCR test sets, and build the app,
+# on every pull request (and on main after merges). Packaging is left to build.yml.
+on:
+  workflow_dispatch:
+  pull_request:
+    paths-ignore: ["**.md", "docs/**", "LICENSE.md"]
+  push:
+    branches: [main]
+    paths-ignore: ["**.md", "docs/**", "LICENSE.md"]
+
+permissions:
+  contents: read
+
+# A new push to the same PR cancels the run still going for the previous one.
+concurrency:
+  group: ci-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  core:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Update Rust
+        run: rustup update stable --no-self-update && rustup default stable
+      # Own cache key: the Android jobs build other targets. PRs reuse the cache saved on main.
+      - uses: Swatinem/rust-cache@v2
+        with:
+          key: core
+      - name: Test
+        run: cargo test --release --locked -p lootlens-core
+      # Parser accuracy on the ML Kit OCR of every test set; fails below testdata/baseline.txt.
+      - name: Accuracy
+        run: scripts/check-accuracy.sh
+
+  android:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: ./.github/actions/setup-android-build
+      - name: Build
+        working-directory: android
+        run: ./gradlew assembleDebug

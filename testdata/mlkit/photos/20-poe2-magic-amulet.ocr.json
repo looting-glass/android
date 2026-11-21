@@ -1,0 +1,77 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "SANGUINE LAPIS AMULET OF THE Fox",
+   "left": 282,
+   "top": 89,
+   "right": 993,
+   "bottom": 158,
+   "color": [
+    93,
+    85,
+    107
+   ]
+  },
+  {
+   "text": "REQUIRES: LEVEL 40",
+   "left": 491,
+   "top": 192,
+   "right": 801,
+   "bottom": 237,
+   "color": [
+    108,
+    108,
+    106
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 66",
+   "left": 507,
+   "top": 279,
+   "right": 756,
+   "bottom": 325,
+   "color": [
+    98,
+    98,
+    96
+   ]
+  },
+  {
+   "text": "+12 TO INTELLIGENCE",
+   "left": 459,
+   "top": 366,
+   "right": 797,
+   "bottom": 411,
+   "color": [
+    86,
+    84,
+    116
+   ]
+  },
+  {
+   "text": "+92 TO MAXIMUM LIFE",
+   "left": 447,
+   "top": 454,
+   "right": 798,
+   "bottom": 497,
+   "color": [
+    81,
+    79,
+    114
+   ]
+  },
+  {
+   "text": "+18 TO DEXTERITY",
+   "left": 476,
+   "top": 505,
+   "right": 766,
+   "bottom": 548,
+   "color": [
+    78,
+    76,
+    112
+   ]
+  }
+ ]
+}

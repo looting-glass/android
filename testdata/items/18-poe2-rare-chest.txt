@@ -1,0 +1,16 @@
+Item Class: Body Armours
+Rarity: Rare
+Golem Pelt
+Vile Robe
+--------
+Energy Shield: 388 (augmented)
+--------
+Requires: Level 65, 121 Int
+--------
+Item Level: 80
+--------
++164 to maximum Energy Shield
++89 to maximum Life
++38% to Fire Resistance
++24% to Chaos Resistance
++19 to Intelligence

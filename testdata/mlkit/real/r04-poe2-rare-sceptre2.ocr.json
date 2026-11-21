@@ -1,0 +1,293 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "Ritual",
+   "left": 766,
+   "top": 22,
+   "right": 824,
+   "bottom": 40,
+   "color": [
+    174,
+    162,
+    127
+   ]
+  },
+  {
+   "text": "Doable Items",
+   "left": 775,
+   "top": 51,
+   "right": 899,
+   "bottom": 73,
+   "color": [
+    148,
+    124,
+    7
+   ]
+  },
+  {
+   "text": "RIFT STAR",
+   "left": 715,
+   "top": 107,
+   "right": 830,
+   "bottom": 127,
+   "color": [
+    237,
+    216,
+    119
+   ]
+  },
+  {
+   "text": "SHRINE SCEPTRE",
+   "left": 675,
+   "top": 136,
+   "right": 871,
+   "bottom": 156,
+   "color": [
+    235,
+    215,
+    118
+   ]
+  },
+  {
+   "text": "SCEPTRES",
+   "left": 742,
+   "top": 177,
+   "right": 825,
+   "bottom": 205,
+   "color": [
+    81,
+    80,
+    77
+   ]
+  },
+  {
+   "text": "SPIRIT: 100",
+   "left": 717,
+   "top": 213,
+   "right": 828,
+   "bottom": 229,
+   "color": [
+    150,
+    146,
+    150
+   ]
+  },
+  {
+   "text": "REQUIRES: LEVEL 52, 17 STR, 38 INT",
+   "left": 605,
+   "top": 250,
+   "right": 947,
+   "bottom": 271,
+   "color": [
+    138,
+    135,
+    132
+   ]
+  },
+  {
+   "text": "GRANTS SKILL: LEVEL 14 PURITY OF lCE",
+   "left": 602,
+   "top": 294,
+   "right": 987,
+   "bottom": 312,
+   "color": [
+    115,
+    114,
+    180
+   ]
+  },
+  {
+   "text": "+134 TO MAXIMUM MANA",
+   "left": 641,
+   "top": 338,
+   "right": 903,
+   "bottom": 356,
+   "color": [
+    119,
+    117,
+    184
+   ]
+  },
+  {
+   "text": "ALLIES IN YOUR PRESENCE DEAL 1 TO 3 ADDED ATTACK FIRE DAMAGE",
+   "left": 432,
+   "top": 365,
+   "right": 1111,
+   "bottom": 383,
+   "color": [
+    117,
+    115,
+    182
+   ]
+  },
+  {
+   "text": "56% INCREASED MANA REGENERATI ON RATE",
+   "left": 554,
+   "top": 390,
+   "right": 991,
+   "bottom": 410,
+   "color": [
+    116,
+    115,
+    182
+   ]
+  },
+  {
+   "text": "10% INCREASED LIGHT RADIUS",
+   "left": 619,
+   "top": 419,
+   "right": 925,
+   "bottom": 435,
+   "color": [
+    128,
+    127,
+    195
+   ]
+  },
+  {
+   "text": "32% SURPASSING CHANCE TO GAIN A PUPPET MASTER STACK WHENEVER YOU USEA COMMAND SKILL",
+   "left": 267,
+   "top": 446,
+   "right": 1276,
+   "bottom": 464,
+   "color": [
+    161,
+    180,
+    193
+   ]
+  },
+  {
+   "text": "JeweS",
+   "left": 812,
+   "top": 477,
+   "right": 877,
+   "bottom": 486,
+   "color": [
+    137,
+    130,
+    173
+   ]
+  },
+  {
+   "text": "Jewels",
+   "left": 813,
+   "top": 492,
+   "right": 876,
+   "bottom": 517,
+   "color": [
+    178,
+    119,
+    97
+   ]
+  },
+  {
+   "text": "O2",
+   "left": 735,
+   "top": 748,
+   "right": 773,
+   "bottom": 764,
+   "color": [
+    108,
+    119,
+    61
+   ]
+  },
+  {
+   "text": "Jewels",
+   "left": 813,
+   "top": 528,
+   "right": 877,
+   "bottom": 549,
+   "color": [
+    152,
+    152,
+    96
+   ]
+  },
+  {
+   "text": "Rings",
+   "left": 815,
+   "top": 559,
+   "right": 868,
+   "bottom": 580,
+   "color": [
+    74,
+    102,
+    145
+   ]
+  },
+  {
+   "text": "LAmulets",
+   "left": 783,
+   "top": 587,
+   "right": 895,
+   "bottom": 609,
+   "color": [
+    120,
+    111,
+    123
+   ]
+  },
+  {
+   "text": "Flasks",
+   "left": 771,
+   "top": 618,
+   "right": 828,
+   "bottom": 641,
+   "color": [
+    76,
+    75,
+    75
+   ]
+  },
+  {
+   "text": "G Delirium",
+   "left": 732,
+   "top": 652,
+   "right": 854,
+   "bottom": 670,
+   "color": [
+    152,
+    142,
+    136
+   ]
+  },
+  {
+   "text": "Expedition",
+   "left": 766,
+   "top": 683,
+   "right": 871,
+   "bottom": 705,
+   "color": [
+    130,
+    129,
+    127
+   ]
+  },
+  {
+   "text": "yBreach",
+   "left": 745,
+   "top": 713,
+   "right": 828,
+   "bottom": 736,
+   "color": [
+    146,
+    106,
+    110
+   ]
+  },
+  {
+   "text": "ANGE",
+   "left": 1155,
+   "top": 50,
+   "right": 1208,
+   "bottom": 66,
+   "color": [
+    191,
+    187,
+    198
+   ]
+  }
+ ]
+}

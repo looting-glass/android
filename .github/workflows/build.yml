@@ -1,0 +1,79 @@
+name: Build
+
+# Builds, tests and packages the signed APK; it's uploaded as a run artifact.
+# - Manual run (Actions tab or `gh workflow run build.yml --ref <branch>`): a test build of any
+#   branch, versioned "<version.txt>-dev".
+# - Called by release-please.yml with a release tag: builds that tag for the GitHub release.
+# Signing uses the LG_KEYSTORE_* repository secrets (see AGENTS.md).
+on:
+  workflow_dispatch:
+  workflow_call:
+    inputs:
+      tag:
+        description: Release tag to build, e.g. v0.2.0
+        type: string
+        required: true
+    secrets:
+      LG_KEYSTORE_BASE64:
+        required: true
+      LG_KEYSTORE_PASSWORD:
+        required: true
+      LG_KEY_ALIAS:
+        required: true
+      LG_KEY_PASSWORD:
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  apk:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ inputs.tag || github.ref }}
+
+      - uses: ./.github/actions/setup-android-build
+
+      - name: Test
+        run: cargo test --release --locked -p lootlens-core
+
+      - name: Version
+        env:
+          TAG: ${{ inputs.tag }}
+        run: |
+          version="${TAG#v}"
+          [ -n "$version" ] || version="$(cat version.txt)-dev"
+          echo "LG_VERSION=$version" >> "$GITHUB_ENV"
+
+      - name: Keystore
+        env:
+          KEYSTORE: ${{ secrets.LG_KEYSTORE_BASE64 }}
+        run: |
+          if [ -z "$KEYSTORE" ]; then echo "::error::LG_KEYSTORE_BASE64 secret is missing"; exit 1; fi
+          echo "$KEYSTORE" | base64 -d > "$RUNNER_TEMP/release.jks"
+          echo "LG_KEYSTORE_FILE=$RUNNER_TEMP/release.jks" >> "$GITHUB_ENV"
+
+      - name: Build
+        working-directory: android
+        env:
+          LG_KEYSTORE_PASSWORD: ${{ secrets.LG_KEYSTORE_PASSWORD }}
+          LG_KEY_ALIAS: ${{ secrets.LG_KEY_ALIAS }}
+          LG_KEY_PASSWORD: ${{ secrets.LG_KEY_PASSWORD }}
+        run: ./gradlew assembleRelease
+
+      - name: Package
+        run: |
+          name="looting-glass-android-$LG_VERSION.apk"
+          mkdir -p dist
+          cp android/app/build/outputs/apk/release/app-release.apk "dist/$name"
+          # Fail if the APK isn't signed with the release key (it would fall back to debug).
+          "$ANDROID_HOME"/build-tools/*/apksigner verify --print-certs "dist/$name" | tee /dev/stderr | grep -q "CN=Looting Glass"
+          (cd dist && sha256sum "$name" > "$name.sha256")
+          rm -f "$LG_KEYSTORE_FILE"
+
+      - uses: actions/upload-artifact@v7
+        with:
+          name: looting-glass-android
+          path: dist/*

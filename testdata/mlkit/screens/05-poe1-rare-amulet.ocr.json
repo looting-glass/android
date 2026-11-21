@@ -1,0 +1,137 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "STORM TALISMAN",
+   "left": 148,
+   "top": 12,
+   "right": 313,
+   "bottom": 31,
+   "color": [
+    206,
+    204,
+    95
+   ]
+  },
+  {
+   "text": "ONYX AMULET",
+   "left": 160,
+   "top": 40,
+   "right": 301,
+   "bottom": 59,
+   "color": [
+    198,
+    195,
+    91
+   ]
+  },
+  {
+   "text": "REQUIRES LEVEL 56",
+   "left": 162,
+   "top": 86,
+   "right": 309,
+   "bottom": 102,
+   "color": [
+    148,
+    147,
+    147
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 84",
+   "left": 170,
+   "top": 129,
+   "right": 292,
+   "bottom": 145,
+   "color": [
+    120,
+    119,
+    119
+   ]
+  },
+  {
+   "text": "+14 TO ALL ATTRIBUTES",
+   "left": 137,
+   "top": 172,
+   "right": 325,
+   "bottom": 185,
+   "color": [
+    98,
+    98,
+    180
+   ]
+  },
+  {
+   "text": "+64 TO MAXIMUM LIFE",
+   "left": 143,
+   "top": 215,
+   "right": 319,
+   "bottom": 229,
+   "color": [
+    109,
+    109,
+    202
+   ]
+  },
+  {
+   "text": "+41% TO LIGHTNING RESISTANCE",
+   "left": 101,
+   "top": 241,
+   "right": 361,
+   "bottom": 254,
+   "color": [
+    113,
+    113,
+    211
+   ]
+  },
+  {
+   "text": "24% INCREASED GLOBAL CRITICAL STRIKE CHANCE",
+   "left": 30,
+   "top": 266,
+   "right": 431,
+   "bottom": 279,
+   "color": [
+    115,
+    114,
+    213
+   ]
+  },
+  {
+   "text": "+31% TO GLOBAL CRITICAL STRIKE MULTIPLIER",
+   "left": 43,
+   "top": 291,
+   "right": 420,
+   "bottom": 304,
+   "color": [
+    114,
+    113,
+    211
+   ]
+  },
+  {
+   "text": "+43 TO MAXIMUM ENERGY SHIELD",
+   "left": 102,
+   "top": 315,
+   "right": 365,
+   "bottom": 331,
+   "color": [
+    102,
+    102,
+    189
+   ]
+  },
+  {
+   "text": "+25% TO FIRE RESISTANCE",
+   "left": 126,
+   "top": 341,
+   "right": 336,
+   "bottom": 353,
+   "color": [
+    149,
+    176,
+    195
+   ]
+  }
+ ]
+}

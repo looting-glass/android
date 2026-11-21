@@ -1,0 +1,24 @@
+Item Class: Spears
+Rarity: Rare
+Plague Edge
+Soaring Spear
+--------
+Quality: +20% (augmented)
+Physical Damage: 66-122 (augmented)
+Elemental Damage: 47-82 (augmented), 2-130 (augmented)
+Critical Hit Chance: 5.00%
+Attacks per Second: 1.96 (augmented)
+--------
+Requires: Level 70, 41 Str, 115 Dex
+--------
+40% increased Elemental Damage with Attacks (rune)
+--------
+Grants Skill: Spear Throw
+--------
+56% increased Physical Damage
+Adds 47 to 82 Fire Damage
+Adds 2 to 130 Lightning Damage
++135 to Accuracy Rating
+15% increased Attack Speed
++4 to Level of all Projectile Skills
+Projectile Attacks have a 17% chance to fire two additional Projectiles while moving

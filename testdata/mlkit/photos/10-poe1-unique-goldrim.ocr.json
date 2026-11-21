@@ -1,0 +1,101 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "GOLDRIM",
+   "left": 702,
+   "top": 140,
+   "right": 889,
+   "bottom": 183,
+   "color": [
+    111,
+    76,
+    47
+   ]
+  },
+  {
+   "text": "LEATHER CAP",
+   "left": 657,
+   "top": 199,
+   "right": 931,
+   "bottom": 237,
+   "color": [
+    111,
+    77,
+    49
+   ]
+  },
+  {
+   "text": "EVASION RATING: 82",
+   "left": 622,
+   "top": 294,
+   "right": 963,
+   "bottom": 324,
+   "color": [
+    83,
+    82,
+    88
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 70",
+   "left": 666,
+   "top": 382,
+   "right": 921,
+   "bottom": 410,
+   "color": [
+    92,
+    92,
+    90
+   ]
+  },
+  {
+   "text": "+50 TO EVASION RATING",
+   "left": 599,
+   "top": 463,
+   "right": 988,
+   "bottom": 501,
+   "color": [
+    76,
+    74,
+    111
+   ]
+  },
+  {
+   "text": "10% INCREASED RARITY OF ITEMS FOUND",
+   "left": 461,
+   "top": 512,
+   "right": 1110,
+   "bottom": 549,
+   "color": [
+    76,
+    74,
+    112
+   ]
+  },
+  {
+   "text": "+36% TO ALL ELEMENTAL RESISTANCES",
+   "left": 471,
+   "top": 559,
+   "right": 1096,
+   "bottom": 595,
+   "color": [
+    73,
+    71,
+    108
+   ]
+  },
+  {
+   "text": "No ME TAL SLIPS AS EASILY THROUGH THE FINGERS AS GOLD.",
+   "left": 350,
+   "top": 641,
+   "right": 1214,
+   "bottom": 681,
+   "color": [
+    76,
+    50,
+    31
+   ]
+  }
+ ]
+}

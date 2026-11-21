@@ -1,0 +1,377 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "WRATH WEAVER",
+   "left": 261,
+   "top": 53,
+   "right": 458,
+   "bottom": 73,
+   "color": [
+    244,
+    215,
+    81
+   ]
+  },
+  {
+   "text": "CULTIST FoCUS",
+   "left": 270,
+   "top": 82,
+   "right": 449,
+   "bottom": 101,
+   "color": [
+    234,
+    206,
+    77
+   ]
+  },
+  {
+   "text": "FocUs",
+   "left": 330,
+   "top": 130,
+   "right": 389,
+   "bottom": 145,
+   "color": [
+    112,
+    112,
+    112
+   ]
+  },
+  {
+   "text": "ENERGY SHIELD: 57",
+   "left": 267,
+   "top": 158,
+   "right": 453,
+   "bottom": 176,
+   "color": [
+    108,
+    108,
+    120
+   ]
+  },
+  {
+   "text": "REQUIRES: LEVEL 59, 83 INT",
+   "left": 225,
+   "top": 197,
+   "right": 496,
+   "bottom": 216,
+   "color": [
+    148,
+    147,
+    142
+   ]
+  },
+  {
+   "text": "10% INCREASED ENERGY SHIELD",
+   "left": 202,
+   "top": 234,
+   "right": 516,
+   "bottom": 251,
+   "color": [
+    120,
+    120,
+    228
+   ]
+  },
+  {
+   "text": "+109 TO MAXIMUM MANA",
+   "left": 229,
+   "top": 262,
+   "right": 491,
+   "bottom": 280,
+   "color": [
+    115,
+    115,
+    217
+   ]
+  },
+  {
+   "text": "23% INCREASED CAST SPEED",
+   "left": 222,
+   "top": 288,
+   "right": 495,
+   "bottom": 307,
+   "color": [
+    112,
+    112,
+    212
+   ]
+  },
+  {
+   "text": "+29% TO FIRE RESISTANCE",
+   "left": 231,
+   "top": 316,
+   "right": 488,
+   "bottom": 334,
+   "color": [
+    114,
+    114,
+    216
+   ]
+  },
+  {
+   "text": "30% INCREASED TOTEM PLACEMENT SPEED",
+   "left": 150,
+   "top": 342,
+   "right": 568,
+   "bottom": 361,
+   "color": [
+    154,
+    183,
+    203
+   ]
+  },
+  {
+   "text": "Doable Items",
+   "left": 953,
+   "top": 0,
+   "right": 1087,
+   "bottom": 12,
+   "color": [
+    148,
+    124,
+    1
+   ]
+  },
+  {
+   "text": "Trash",
+   "left": 952,
+   "top": 26,
+   "right": 1006,
+   "bottom": 44,
+   "color": [
+    173,
+    160,
+    112
+   ]
+  },
+  {
+   "text": "Abyss",
+   "left": 949,
+   "top": 57,
+   "right": 1008,
+   "bottom": 79,
+   "color": [
+    147,
+    133,
+    97
+   ]
+  },
+  {
+   "text": "en Builds",
+   "left": 920,
+   "top": 87,
+   "right": 1011,
+   "bottom": 108,
+   "color": [
+    148,
+    143,
+    91
+   ]
+  },
+  {
+   "text": "4h Essences",
+   "left": 922,
+   "top": 121,
+   "right": 1037,
+   "bottom": 139,
+   "color": [
+    109,
+    85,
+    154
+   ]
+  },
+  {
+   "text": "Uniques",
+   "left": 953,
+   "top": 154,
+   "right": 1035,
+   "bottom": 174,
+   "color": [
+    162,
+    145,
+    106
+   ]
+  },
+  {
+   "text": "DD Gear (unsOrted",
+   "left": 919,
+   "top": 186,
+   "right": 1096,
+   "bottom": 204,
+   "color": [
+    84,
+    88,
+    71
+   ]
+  },
+  {
+   "text": "L Helmets",
+   "left": 959,
+   "top": 216,
+   "right": 1085,
+   "bottom": 234,
+   "color": [
+    76,
+    75,
+    76
+   ]
+  },
+  {
+   "text": "Body Arnm",
+   "left": 1001,
+   "top": 245,
+   "right": 1096,
+   "bottom": 272,
+   "color": [
+    76,
+    75,
+    75
+   ]
+  },
+  {
+   "text": "Gloves",
+   "left": 999,
+   "top": 277,
+   "right": 1065,
+   "bottom": 297,
+   "color": [
+    76,
+    75,
+    75
+   ]
+  },
+  {
+   "text": "Chat line",
+   "left": 967,
+   "top": 293,
+   "right": 1095,
+   "bottom": 316,
+   "color": [
+    80,
+    137,
+    51
+   ]
+  },
+  {
+   "text": "Belts",
+   "left": 1001,
+   "top": 314,
+   "right": 1046,
+   "bottom": 329,
+   "color": [
+    75,
+    75,
+    75
+   ]
+  },
+  {
+   "text": "Boots",
+   "left": 1001,
+   "top": 343,
+   "right": 1056,
+   "bottom": 360,
+   "color": [
+    75,
+    75,
+    75
+   ]
+  },
+  {
+   "text": "L",
+   "left": 959,
+   "top": 438,
+   "right": 967,
+   "bottom": 448,
+   "color": [
+    136,
+    130,
+    89
+   ]
+  },
+  {
+   "text": "Jewels",
+   "left": 999,
+   "top": 374,
+   "right": 1064,
+   "bottom": 396,
+   "color": [
+    152,
+    137,
+    133
+   ]
+  },
+  {
+   "text": "VANC Jewels",
+   "left": 894,
+   "top": 389,
+   "right": 1063,
+   "bottom": 428,
+   "color": [
+    126,
+    70,
+    62
+   ]
+  },
+  {
+   "text": "Jewels",
+   "left": 999,
+   "top": 435,
+   "right": 1061,
+   "bottom": 459,
+   "color": [
+    148,
+    138,
+    94
+   ]
+  },
+  {
+   "text": "Rings",
+   "left": 1001,
+   "top": 469,
+   "right": 1056,
+   "bottom": 492,
+   "color": [
+    71,
+    102,
+    148
+   ]
+  },
+  {
+   "text": "L Amulets",
+   "left": 989,
+   "top": 495,
+   "right": 1082,
+   "bottom": 520,
+   "color": [
+    128,
+    115,
+    101
+   ]
+  },
+  {
+   "text": "FlaskS",
+   "left": 958,
+   "top": 528,
+   "right": 1017,
+   "bottom": 550,
+   "color": [
+    75,
+    75,
+    75
+   ]
+  },
+  {
+   "text": "Delirium",
+   "left": 952,
+   "top": 562,
+   "right": 1041,
+   "bottom": 580,
+   "color": [
+    172,
+    156,
+    116
+   ]
+  }
+ ]
+}

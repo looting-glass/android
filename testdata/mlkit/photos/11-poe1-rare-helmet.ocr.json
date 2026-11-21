@@ -1,0 +1,137 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "GLYPH CROWN",
+   "left": 417,
+   "top": 164,
+   "right": 711,
+   "bottom": 219,
+   "color": [
+    138,
+    134,
+    79
+   ]
+  },
+  {
+   "text": "HUBRIS CIRCLET",
+   "left": 407,
+   "top": 223,
+   "right": 725,
+   "bottom": 280,
+   "color": [
+    140,
+    136,
+    83
+   ]
+  },
+  {
+   "text": "ENERGY SHIELD: 312",
+   "left": 398,
+   "top": 319,
+   "right": 732,
+   "bottom": 370,
+   "color": [
+    81,
+    80,
+    86
+   ]
+  },
+  {
+   "text": "REQUIRES LEVEL 69, 154 INT",
+   "left": 356,
+   "top": 405,
+   "right": 805,
+   "bottom": 466,
+   "color": [
+    101,
+    101,
+    98
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 86",
+   "left": 441,
+   "top": 502,
+   "right": 689,
+   "bottom": 542,
+   "color": [
+    102,
+    102,
+    100
+   ]
+  },
+  {
+   "text": "+86 TO MAXIMUM LIFE",
+   "left": 391,
+   "top": 587,
+   "right": 739,
+   "bottom": 628,
+   "color": [
+    92,
+    90,
+    125
+   ]
+  },
+  {
+   "text": "+71 TO MAXIMUM ENERGY SHIELD",
+   "left": 308,
+   "top": 635,
+   "right": 828,
+   "bottom": 678,
+   "color": [
+    87,
+    85,
+    119
+   ]
+  },
+  {
+   "text": "42% INCREASED ENERGY SHIELD",
+   "left": 320,
+   "top": 685,
+   "right": 814,
+   "bottom": 725,
+   "color": [
+    89,
+    87,
+    121
+   ]
+  },
+  {
+   "text": "+35% TO FIRE RESISTANCE",
+   "left": 363,
+   "top": 736,
+   "right": 769,
+   "bottom": 769,
+   "color": [
+    92,
+    90,
+    125
+   ]
+  },
+  {
+   "text": "+30% TO LIGHINING RESISTANCE",
+   "left": 319,
+   "top": 781,
+   "right": 816,
+   "bottom": 816,
+   "color": [
+    87,
+    85,
+    120
+   ]
+  },
+  {
+   "text": "+2 TO LEVEL OF SoCKETED MINION GEMs",
+   "left": 261,
+   "top": 826,
+   "right": 878,
+   "bottom": 863,
+   "color": [
+    82,
+    80,
+    116
+   ]
+  }
+ ]
+}

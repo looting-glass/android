@@ -1,0 +1,149 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "HAVOC SHELL",
+   "left": 183,
+   "top": 12,
+   "right": 314,
+   "bottom": 31,
+   "color": [
+    204,
+    201,
+    94
+   ]
+  },
+  {
+   "text": "AsTRAL PLATE",
+   "left": 179,
+   "top": 39,
+   "right": 317,
+   "bottom": 59,
+   "color": [
+    192,
+    189,
+    88
+   ]
+  },
+  {
+   "text": "QUALITY: +20%",
+   "left": 195,
+   "top": 85,
+   "right": 312,
+   "bottom": 103,
+   "color": [
+    89,
+    88,
+    122
+   ]
+  },
+  {
+   "text": "ARMOUR: 1520",
+   "left": 189,
+   "top": 112,
+   "right": 308,
+   "bottom": 124,
+   "color": [
+    109,
+    109,
+    148
+   ]
+  },
+  {
+   "text": "REQUIRES LEVEL 62, 180 STR",
+   "left": 143,
+   "top": 153,
+   "right": 364,
+   "bottom": 170,
+   "color": [
+    157,
+    157,
+    156
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 85",
+   "left": 187,
+   "top": 197,
+   "right": 310,
+   "bottom": 211,
+   "color": [
+    131,
+    130,
+    130
+   ]
+  },
+  {
+   "text": "+11% TO ALL ELEMENTAL RESISTANCES",
+   "left": 94,
+   "top": 241,
+   "right": 404,
+   "bottom": 253,
+   "color": [
+    103,
+    103,
+    191
+   ]
+  },
+  {
+   "text": "+112 TO MAXIMUM LIFE",
+   "left": 156,
+   "top": 284,
+   "right": 342,
+   "bottom": 297,
+   "color": [
+    111,
+    111,
+    207
+   ]
+  },
+  {
+   "text": "94% INCREASED ARMOUR",
+   "left": 149,
+   "top": 309,
+   "right": 349,
+   "bottom": 322,
+   "color": [
+    117,
+    117,
+    218
+   ]
+  },
+  {
+   "text": "+44% To FIRE RE SISTANCE",
+   "left": 144,
+   "top": 334,
+   "right": 354,
+   "bottom": 346,
+   "color": [
+    112,
+    111,
+    207
+   ]
+  },
+  {
+   "text": "+12% To CHAOS RESISTANCE",
+   "left": 134,
+   "top": 359,
+   "right": 363,
+   "bottom": 372,
+   "color": [
+    114,
+    113,
+    211
+   ]
+  },
+  {
+   "text": "REFLECTS 30 PHYSICAL DAMAGE TO MELEE ATITACKERS",
+   "left": 30,
+   "top": 383,
+   "right": 467,
+   "bottom": 399,
+   "color": [
+    104,
+    104,
+    193
+   ]
+  }
+ ]
+}

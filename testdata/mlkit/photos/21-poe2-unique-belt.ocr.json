@@ -1,0 +1,125 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "MEGINORD'S GIRDLE",
+   "left": 447,
+   "top": 106,
+   "right": 825,
+   "bottom": 150,
+   "color": [
+    107,
+    69,
+    39
+   ]
+  },
+  {
+   "text": "RAWHIDE BELT",
+   "left": 494,
+   "top": 169,
+   "right": 777,
+   "bottom": 208,
+   "color": [
+    112,
+    72,
+    40
+   ]
+  },
+  {
+   "text": "REQUIREs: LEVEL 5",
+   "left": 490,
+   "top": 267,
+   "right": 786,
+   "bottom": 299,
+   "color": [
+    106,
+    106,
+    104
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 60",
+   "left": 517,
+   "top": 356,
+   "right": 760,
+   "bottom": 393,
+   "color": [
+    94,
+    93,
+    91
+   ]
+  },
+  {
+   "text": "FLASKS GAIN 0.17 CHARGES PER SECOND",
+   "left": 325,
+   "top": 451,
+   "right": 948,
+   "bottom": 483,
+   "color": [
+    90,
+    88,
+    129
+   ]
+  },
+  {
+   "text": "+25 TO STRENGTH",
+   "left": 501,
+   "top": 545,
+   "right": 778,
+   "bottom": 574,
+   "color": [
+    96,
+    94,
+    135
+   ]
+  },
+  {
+   "text": "+80 TO MAXIMUM LIFE",
+   "left": 475,
+   "top": 600,
+   "right": 815,
+   "bottom": 634,
+   "color": [
+    93,
+    91,
+    132
+   ]
+  },
+  {
+   "text": "+18% To COLD RESISTANCE",
+   "left": 422,
+   "top": 653,
+   "right": 856,
+   "bottom": 683,
+   "color": [
+    97,
+    95,
+    135
+   ]
+  },
+  {
+   "text": "10% INCREASED FLASK LIFE RECOVERY RATE",
+   "left": 291,
+   "top": 707,
+   "right": 988,
+   "bottom": 737,
+   "color": [
+    98,
+    96,
+    136
+   ]
+  },
+  {
+   "text": "THE HIDE OF THE BEAST HOLDS STRENG TH.",
+   "left": 346,
+   "top": 802,
+   "right": 949,
+   "bottom": 832,
+   "color": [
+    106,
+    77,
+    57
+   ]
+  }
+ ]
+}

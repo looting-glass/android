@@ -1,0 +1,137 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "GRIM GRIP",
+   "left": 414,
+   "top": 160,
+   "right": 613,
+   "bottom": 195,
+   "color": [
+    159,
+    156,
+    100
+   ]
+  },
+  {
+   "text": "FINGERLESS SILK GLOVES",
+   "left": 273,
+   "top": 210,
+   "right": 750,
+   "bottom": 246,
+   "color": [
+    149,
+    146,
+    93
+   ]
+  },
+  {
+   "text": "ENERGY SHIELD: 68",
+   "left": 355,
+   "top": 297,
+   "right": 665,
+   "bottom": 325,
+   "color": [
+    90,
+    89,
+    97
+   ]
+  },
+  {
+   "text": "REQUIRES LEVEL 70, 95 INT",
+   "left": 309,
+   "top": 377,
+   "right": 728,
+   "bottom": 411,
+   "color": [
+    114,
+    114,
+    112
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 84",
+   "left": 382,
+   "top": 460,
+   "right": 631,
+   "bottom": 492,
+   "color": [
+    96,
+    96,
+    94
+   ]
+  },
+  {
+   "text": "14% INCREAS ED SPELL DAMAGE",
+   "left": 250,
+   "top": 544,
+   "right": 758,
+   "bottom": 578,
+   "color": [
+    82,
+    80,
+    120
+   ]
+  },
+  {
+   "text": "+79 TO MAXIMUM LIFE",
+   "left": 319,
+   "top": 629,
+   "right": 680,
+   "bottom": 657,
+   "color": [
+    91,
+    85,
+    67
+   ]
+  },
+  {
+   "text": "+48 TO MAXIMUM ENERGY SHIELD",
+   "left": 230,
+   "top": 677,
+   "right": 774,
+   "bottom": 713,
+   "color": [
+    77,
+    75,
+    117
+   ]
+  },
+  {
+   "text": "+36% To COLD RESISTANCE",
+   "left": 270,
+   "top": 730,
+   "right": 723,
+   "bottom": 757,
+   "color": [
+    82,
+    80,
+    123
+   ]
+  },
+  {
+   "text": "+29 TO INTELLIGENCE",
+   "left": 322,
+   "top": 779,
+   "right": 669,
+   "bottom": 810,
+   "color": [
+    79,
+    77,
+    120
+   ]
+  },
+  {
+   "text": "12% INCREASED ATTACK SPEED",
+   "left": 239,
+   "top": 831,
+   "right": 754,
+   "bottom": 859,
+   "color": [
+    82,
+    80,
+    124
+   ]
+  }
+ ]
+}

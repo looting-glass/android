@@ -1,0 +1,13 @@
+/target
+/android/.gradle
+/android/build
+/android/app/build
+/android/local.properties
+# Built by scripts/build-rust.sh (runs automatically before every Gradle build)
+/android/app/src/main/jniLibs
+/android/app/src/main/java/uniffi
+/dist
+/android/.idea
+/android/.kotlin
+*.jks
+*.keystore

@@ -1,0 +1,113 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "DUSK STRIDE",
+   "left": 106,
+   "top": 14,
+   "right": 229,
+   "bottom": 30,
+   "color": [
+    230,
+    229,
+    107
+   ]
+  },
+  {
+   "text": "DRAGONSCALE B00TS",
+   "left": 65,
+   "top": 42,
+   "right": 270,
+   "bottom": 58,
+   "color": [
+    223,
+    222,
+    103
+   ]
+  },
+  {
+   "text": "EVASION RATING: 310",
+   "left": 81,
+   "top": 86,
+   "right": 254,
+   "bottom": 102,
+   "color": [
+    98,
+    97,
+    115
+   ]
+  },
+  {
+   "text": "ENERGY SHIELD: 92",
+   "left": 91,
+   "top": 112,
+   "right": 244,
+   "bottom": 125,
+   "color": [
+    112,
+    112,
+    130
+   ]
+  },
+  {
+   "text": "REQUIRES: LEVEL 65",
+   "left": 96,
+   "top": 155,
+   "right": 248,
+   "bottom": 169,
+   "color": [
+    158,
+    158,
+    158
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 81",
+   "left": 106,
+   "top": 197,
+   "right": 229,
+   "bottom": 211,
+   "color": [
+    125,
+    125,
+    124
+   ]
+  },
+  {
+   "text": "+38 TO MAXIMUM LIFE",
+   "left": 79,
+   "top": 241,
+   "right": 256,
+   "bottom": 254,
+   "color": [
+    113,
+    112,
+    209
+   ]
+  },
+  {
+   "text": "15% INCREASED MOVEMENT SPEED",
+   "left": 32,
+   "top": 266,
+   "right": 304,
+   "bottom": 279,
+   "color": [
+    117,
+    116,
+    217
+   ]
+  },
+  {
+   "text": "+24% TO COLD RESISTANCE",
+   "left": 58,
+   "top": 291,
+   "right": 277,
+   "bottom": 304,
+   "color": [
+    114,
+    114,
+    213
+   ]
+  }
+ ]
+}

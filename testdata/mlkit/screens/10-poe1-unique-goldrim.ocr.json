@@ -1,0 +1,101 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "GOLDRIM",
+   "left": 206,
+   "top": 13,
+   "right": 293,
+   "bottom": 31,
+   "color": [
+    154,
+    85,
+    33
+   ]
+  },
+  {
+   "text": "LEATHER CAP",
+   "left": 185,
+   "top": 42,
+   "right": 315,
+   "bottom": 58,
+   "color": [
+    154,
+    86,
+    33
+   ]
+  },
+  {
+   "text": "EVASION RATING: 82",
+   "left": 169,
+   "top": 87,
+   "right": 331,
+   "bottom": 100,
+   "color": [
+    110,
+    109,
+    126
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 70",
+   "left": 189,
+   "top": 129,
+   "right": 312,
+   "bottom": 143,
+   "color": [
+    123,
+    123,
+    123
+   ]
+  },
+  {
+   "text": "+50 TO EVASION RATING",
+   "left": 153,
+   "top": 173,
+   "right": 347,
+   "bottom": 186,
+   "color": [
+    114,
+    113,
+    211
+   ]
+  },
+  {
+   "text": "10% INCREASED RARITY OF ITEMS FOUND",
+   "left": 91,
+   "top": 198,
+   "right": 411,
+   "bottom": 211,
+   "color": [
+    115,
+    115,
+    214
+   ]
+  },
+  {
+   "text": "+36% TO ALL ELEMENTAL RESISTANCEs",
+   "left": 95,
+   "top": 222,
+   "right": 405,
+   "bottom": 236,
+   "color": [
+    109,
+    109,
+    202
+   ]
+  },
+  {
+   "text": "No METAL SLIPS AS EASIL Y THROUGH THE FINGERS AS GOLD.",
+   "left": 30,
+   "top": 267,
+   "right": 468,
+   "bottom": 279,
+   "color": [
+    148,
+    82,
+    32
+   ]
+  }
+ ]
+}

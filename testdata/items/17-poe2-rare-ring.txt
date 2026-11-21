@@ -1,0 +1,16 @@
+Item Class: Rings
+Rarity: Rare
+Rapture Spiral
+Sapphire Ring
+--------
+Requires: Level 52
+--------
+Item Level: 78
+--------
++24% to Cold Resistance (implicit)
+--------
++112 to Accuracy Rating
++82 to maximum Mana
++31% to Fire Resistance
++26% to Lightning Resistance
++17 to Dexterity

@@ -1,0 +1,305 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "PLAGUE EDGE",
+   "left": 453,
+   "top": 146,
+   "right": 677,
+   "bottom": 181,
+   "color": [
+    245,
+    241,
+    204
+   ]
+  },
+  {
+   "text": "SOARING SPEAR",
+   "left": 430,
+   "top": 191,
+   "right": 694,
+   "bottom": 229,
+   "color": [
+    244,
+    239,
+    202
+   ]
+  },
+  {
+   "text": "SPEAR",
+   "left": 518,
+   "top": 274,
+   "right": 605,
+   "bottom": 314,
+   "color": [
+    191,
+    212,
+    233
+   ]
+  },
+  {
+   "text": "QUALITY: +20%",
+   "left": 449,
+   "top": 315,
+   "right": 666,
+   "bottom": 357,
+   "color": [
+    180,
+    200,
+    230
+   ]
+  },
+  {
+   "text": "PHYSICAL DAMAGE: 66-122",
+   "left": 366,
+   "top": 360,
+   "right": 747,
+   "bottom": 404,
+   "color": [
+    184,
+    202,
+    230
+   ]
+  },
+  {
+   "text": "ELEMENTAL DAMAGE: 47-82, 2-130",
+   "left": 314,
+   "top": 407,
+   "right": 797,
+   "bottom": 449,
+   "color": [
+    198,
+    200,
+    210
+   ]
+  },
+  {
+   "text": "CRITICAL HIT CHANCE: 5.00%",
+   "left": 367,
+   "top": 448,
+   "right": 767,
+   "bottom": 500,
+   "color": [
+    186,
+    204,
+    227
+   ]
+  },
+  {
+   "text": "ATTACRS PER' SECOND: 1.96",
+   "left": 370,
+   "top": 495,
+   "right": 747,
+   "bottom": 540,
+   "color": [
+    184,
+    203,
+    232
+   ]
+  },
+  {
+   "text": "REQUIRES: LEVEL 70, 41 STR, 115 DEX",
+   "left": 297,
+   "top": 555,
+   "right": 810,
+   "bottom": 607,
+   "color": [
+    197,
+    208,
+    225
+   ]
+  },
+  {
+   "text": "40% INCREASED ELEMENTAL DAMAGE WITH ATTACKS",
+   "left": 174,
+   "top": 616,
+   "right": 922,
+   "bottom": 675,
+   "color": [
+    188,
+    214,
+    233
+   ]
+  },
+  {
+   "text": "GRANTS SKILL: SPEAR THROw",
+   "left": 381,
+   "top": 688,
+   "right": 804,
+   "bottom": 742,
+   "color": [
+    164,
+    186,
+    236
+   ]
+  },
+  {
+   "text": "56% INCREASED PHYSICAL DAMAGE",
+   "left": 307,
+   "top": 764,
+   "right": 802,
+   "bottom": 816,
+   "color": [
+    168,
+    189,
+    236
+   ]
+  },
+  {
+   "text": "ADDS 47 TO 82 FIRE DAMAGE",
+   "left": 348,
+   "top": 804,
+   "right": 757,
+   "bottom": 865,
+   "color": [
+    162,
+    184,
+    236
+   ]
+  },
+  {
+   "text": "ADDS 2 TO 130 LIGHTNING DAMAGE",
+   "left": 297,
+   "top": 850,
+   "right": 808,
+   "bottom": 908,
+   "color": [
+    162,
+    184,
+    235
+   ]
+  },
+  {
+   "text": "+135 TO AcCURACY RATING",
+   "left": 362,
+   "top": 898,
+   "right": 747,
+   "bottom": 953,
+   "color": [
+    159,
+    182,
+    237
+   ]
+  },
+  {
+   "text": "15% INCREASED ATTACK SPEED",
+   "left": 340,
+   "top": 941,
+   "right": 766,
+   "bottom": 999,
+   "color": [
+    164,
+    185,
+    238
+   ]
+  },
+  {
+   "text": "TO LEVEL OF ALL PRoJECTILE SKILLS",
+   "left": 328,
+   "top": 981,
+   "right": 822,
+   "bottom": 1044,
+   "color": [
+    163,
+    184,
+    237
+   ]
+  },
+  {
+   "text": "PROJECTILE ATTACKS HAVE A 17% CHANCE TỚ FIRE TWO ADDITIONAL",
+   "left": 50,
+   "top": 1009,
+   "right": 1020,
+   "bottom": 1113,
+   "color": [
+    141,
+    162,
+    224
+   ]
+  },
+  {
+   "text": "PROJECTILES WHILE MOVING",
+   "left": 346,
+   "top": 1072,
+   "right": 753,
+   "bottom": 1139,
+   "color": [
+    160,
+    174,
+    227
+   ]
+  },
+  {
+   "text": "Equip",
+   "left": 440,
+   "top": 1171,
+   "right": 522,
+   "bottom": 1214,
+   "color": [
+    210,
+    222,
+    232
+   ]
+  },
+  {
+   "text": "eck L Edit Search L) Clear Search",
+   "left": 0,
+   "top": 1313,
+   "right": 607,
+   "bottom": 1404,
+   "color": [
+    199,
+    199,
+    197
+   ]
+  },
+  {
+   "text": "Unstash",
+   "left": 633,
+   "top": 1153,
+   "right": 749,
+   "bottom": 1192,
+   "color": [
+    210,
+    220,
+    229
+   ]
+  },
+  {
+   "text": "LT Toggle Chat",
+   "left": 668,
+   "top": 1289,
+   "right": 870,
+   "bottom": 1346,
+   "color": [
+    193,
+    201,
+    205
+   ]
+  },
+  {
+   "text": "4,841,262",
+   "left": 974,
+   "top": 1086,
+   "right": 1089,
+   "bottom": 1125,
+   "color": [
+    83,
+    91,
+    93
+   ]
+  },
+  {
+   "text": "Compare L",
+   "left": 979,
+   "top": 1203,
+   "right": 1134,
+   "bottom": 1250,
+   "color": [
+    189,
+    201,
+    202
+   ]
+  }
+ ]
+}

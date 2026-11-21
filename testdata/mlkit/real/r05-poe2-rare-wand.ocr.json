@@ -1,0 +1,449 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "STASH",
+   "left": 101,
+   "top": 55,
+   "right": 182,
+   "bottom": 79,
+   "color": [
+    253,
+    241,
+    174
+   ]
+  },
+  {
+   "text": "Doable ltems Doable Items",
+   "left": 42,
+   "top": 105,
+   "right": 360,
+   "bottom": 128,
+   "color": [
+    166,
+    140,
+    14
+   ]
+  },
+  {
+   "text": "Trash",
+   "left": 408,
+   "top": 108,
+   "right": 464,
+   "bottom": 126,
+   "color": [
+    209,
+    196,
+    125
+   ]
+  },
+  {
+   "text": "Currencies",
+   "left": 665,
+   "top": 101,
+   "right": 760,
+   "bottom": 119,
+   "color": [
+    155,
+    156,
+    100
+   ]
+  },
+  {
+   "text": "Gems",
+   "left": 650,
+   "top": 134,
+   "right": 705,
+   "bottom": 151,
+   "color": [
+    147,
+    99,
+    9
+   ]
+  },
+  {
+   "text": "Augments",
+   "left": 651,
+   "top": 166,
+   "right": 755,
+   "bottom": 188,
+   "color": [
+    73,
+    102,
+    146
+   ]
+  },
+  {
+   "text": "2",
+   "left": 736,
+   "top": 68,
+   "right": 743,
+   "bottom": 79,
+   "color": [
+    247,
+    247,
+    247
+   ]
+  },
+  {
+   "text": "Fragments",
+   "left": 653,
+   "top": 198,
+   "right": 761,
+   "bottom": 220,
+   "color": [
+    151,
+    150,
+    96
+   ]
+  },
+  {
+   "text": "Waystones",
+   "left": 650,
+   "top": 228,
+   "right": 762,
+   "bottom": 251,
+   "color": [
+    181,
+    121,
+    100
+   ]
+  },
+  {
+   "text": "Ritual",
+   "left": 653,
+   "top": 258,
+   "right": 710,
+   "bottom": 277,
+   "color": [
+    169,
+    157,
+    125
+   ]
+  },
+  {
+   "text": "Doable Items",
+   "left": 661,
+   "top": 288,
+   "right": 784,
+   "bottom": 311,
+   "color": [
+    149,
+    124,
+    7
+   ]
+  },
+  {
+   "text": "Doable Items",
+   "left": 661,
+   "top": 320,
+   "right": 787,
+   "bottom": 343,
+   "color": [
+    149,
+    124,
+    7
+   ]
+  },
+  {
+   "text": "BIlCS",
+   "left": 640,
+   "top": 417,
+   "right": 712,
+   "bottom": 433,
+   "color": [
+    54,
+    48,
+    34
+   ]
+  },
+  {
+   "text": "SSenees",
+   "left": 653,
+   "top": 452,
+   "right": 737,
+   "bottom": 466,
+   "color": [
+    25,
+    13,
+    35
+   ]
+  },
+  {
+   "text": "Uniques",
+   "left": 652,
+   "top": 478,
+   "right": 735,
+   "bottom": 500,
+   "color": [
+    36,
+    31,
+    25
+   ]
+  },
+  {
+   "text": "CORRUPTION SCRATCH",
+   "left": 749,
+   "top": 358,
+   "right": 1022,
+   "bottom": 378,
+   "color": [
+    233,
+    211,
+    115
+   ]
+  },
+  {
+   "text": "GALVANIC WAND",
+   "left": 783,
+   "top": 387,
+   "right": 989,
+   "bottom": 407,
+   "color": [
+    227,
+    208,
+    117
+   ]
+  },
+  {
+   "text": "GRANTS SKILL: LEVEL 17 GALVANIC FIELD",
+   "left": 703,
+   "top": 545,
+   "right": 1112,
+   "bottom": 562,
+   "color": [
+    119,
+    117,
+    183
+   ]
+  },
+  {
+   "text": "Flasks",
+   "left": 661,
+   "top": 856,
+   "right": 716,
+   "bottom": 878,
+   "color": [
+    76,
+    75,
+    75
+   ]
+  },
+  {
+   "text": "REQUIRES: LEVEL 52, 46 INT",
+   "left": 758,
+   "top": 500,
+   "right": 1020,
+   "bottom": 523,
+   "color": [
+    131,
+    128,
+    125
+   ]
+  },
+  {
+   "text": "Jewels",
+   "left": 701,
+   "top": 699,
+   "right": 763,
+   "bottom": 721,
+   "color": [
+    144,
+    134,
+    183
+   ]
+  },
+  {
+   "text": "VAL lewels",
+   "left": 593,
+   "top": 717,
+   "right": 761,
+   "bottom": 754,
+   "color": [
+    131,
+    66,
+    65
+   ]
+  },
+  {
+   "text": "Rings",
+   "left": 701,
+   "top": 796,
+   "right": 757,
+   "bottom": 818,
+   "color": [
+    74,
+    103,
+    145
+   ]
+  },
+  {
+   "text": "7",
+   "left": 934,
+   "top": 68,
+   "right": 942,
+   "bottom": 80,
+   "color": [
+    228,
+    227,
+    228
+   ]
+  },
+  {
+   "text": "Jewels",
+   "left": 701,
+   "top": 764,
+   "right": 764,
+   "bottom": 786,
+   "color": [
+    150,
+    150,
+    95
+   ]
+  },
+  {
+   "text": "Delirium",
+   "left": 653,
+   "top": 889,
+   "right": 741,
+   "bottom": 907,
+   "color": [
+    167,
+    153,
+    147
+   ]
+  },
+  {
+   "text": "IN Breach",
+   "left": 593,
+   "top": 945,
+   "right": 719,
+   "bottom": 972,
+   "color": [
+    128,
+    92,
+    103
+   ]
+  },
+  {
+   "text": "17% INCREASED CAST SPEED",
+   "left": 748,
+   "top": 615,
+   "right": 1021,
+   "bottom": 632,
+   "color": [
+    125,
+    123,
+    189
+   ]
+  },
+  {
+   "text": "25% INCREASED EFFECT OF SOCKETED AUG MENT ITEMS",
+   "left": 618,
+   "top": 669,
+   "right": 1152,
+   "bottom": 688,
+   "color": [
+    159,
+    178,
+    190
+   ]
+  },
+  {
+   "text": "WAND",
+   "left": 854,
+   "top": 436,
+   "right": 915,
+   "bottom": 452,
+   "color": [
+    124,
+    122,
+    122
+   ]
+  },
+  {
+   "text": "QUALITY: +14%",
+   "left": 811,
+   "top": 459,
+   "right": 960,
+   "bottom": 483,
+   "color": [
+    93,
+    89,
+    108
+   ]
+  },
+  {
+   "text": "+58 TO MAXIMUM MANA",
+   "left": 760,
+   "top": 588,
+   "right": 1011,
+   "bottom": 606,
+   "color": [
+    120,
+    118,
+    185
+   ]
+  },
+  {
+   "text": "GAIN 34 LIFE PER ENEMY KILLED",
+   "left": 727,
+   "top": 642,
+   "right": 1042,
+   "bottom": 660,
+   "color": [
+    118,
+    117,
+    185
+   ]
+  },
+  {
+   "text": "Amulets",
+   "left": 699,
+   "top": 825,
+   "right": 782,
+   "bottom": 845,
+   "color": [
+    152,
+    142,
+    148
+   ]
+  },
+  {
+   "text": "Expedition",
+   "left": 653,
+   "top": 920,
+   "right": 758,
+   "bottom": 942,
+   "color": [
+    130,
+    129,
+    128
+   ]
+  },
+  {
+   "text": "ANGE",
+   "left": 1042,
+   "top": 287,
+   "right": 1095,
+   "bottom": 303,
+   "color": [
+    191,
+    187,
+    199
+   ]
+  },
+  {
+   "text": "DORYANI",
+   "left": 1242,
+   "top": 172,
+   "right": 1328,
+   "bottom": 190,
+   "color": [
+    188,
+    186,
+    197
+   ]
+  }
+ ]
+}

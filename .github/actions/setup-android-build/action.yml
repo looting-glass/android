@@ -1,0 +1,28 @@
+name: Set up the Android build
+description: JDK, Android SDK + NDK, Rust with the Android targets and cargo-ndk, Gradle cache.
+runs:
+  using: composite
+  steps:
+    - uses: actions/setup-java@v6
+      with:
+        distribution: temurin
+        java-version: "21"
+    - uses: android-actions/setup-android@v4
+      with:
+        packages: "platforms;android-37.0 ndk;29.0.14206865"
+    # The runner's default ANDROID_NDK_HOME points at another NDK; use the one Gradle expects.
+    - name: Use NDK 29
+      shell: bash
+      run: echo "ANDROID_NDK_HOME=$ANDROID_HOME/ndk/29.0.14206865" >> "$GITHUB_ENV"
+    - name: Rust for Android
+      shell: bash
+      run: |
+        rustup update stable --no-self-update && rustup default stable
+        rustup target add aarch64-linux-android x86_64-linux-android
+    - uses: taiki-e/install-action@v2
+      with:
+        tool: cargo-ndk
+    - uses: Swatinem/rust-cache@v2
+      with:
+        key: android
+    - uses: gradle/actions/setup-gradle@v6

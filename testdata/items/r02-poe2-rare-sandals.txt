@@ -1,0 +1,13 @@
+Item Class: Boots
+Rarity: Rare
+Phoenix Hoof
+Feathered Sandals
+--------
+Energy Shield: 81 (augmented)
+--------
+Requires: Level 33, 45 Int
+--------
+20% increased Movement Speed
++40 to maximum Energy Shield
++55 to maximum Mana
+6.3 Life Regeneration per second

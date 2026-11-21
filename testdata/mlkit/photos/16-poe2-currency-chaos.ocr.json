@@ -1,0 +1,41 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "CHAOS ORB",
+   "left": 996,
+   "top": 76,
+   "right": 1224,
+   "bottom": 112,
+   "color": [
+    109,
+    96,
+    79
+   ]
+  },
+  {
+   "text": "STACK SiZE: 12\/50",
+   "left": 970,
+   "top": 166,
+   "right": 1268,
+   "bottom": 195,
+   "color": [
+    94,
+    93,
+    91
+   ]
+  },
+  {
+   "text": "REMOVES A RANDOM MODIFIER AND AUGMENTS A RARE ITEM WITH A NEW RANDOM MODIFIER",
+   "left": 382,
+   "top": 252,
+   "right": 1856,
+   "bottom": 282,
+   "color": [
+    70,
+    69,
+    67
+   ]
+  }
+ ]
+}

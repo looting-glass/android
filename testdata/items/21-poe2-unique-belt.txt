@@ -1,0 +1,17 @@
+Item Class: Belts
+Rarity: Unique
+Meginord's Girdle
+Rawhide Belt
+--------
+Requires: Level 5
+--------
+Item Level: 60
+--------
+Flasks gain 0.17 charges per Second (implicit)
+--------
++25 to Strength
++80 to maximum Life
++18% to Cold Resistance
+10% increased Flask Life Recovery rate
+--------
+The hide of the beast holds strength.

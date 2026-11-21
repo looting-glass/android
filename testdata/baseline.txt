@@ -1,0 +1,6 @@
+# Minimum mods correct per test set (ML Kit OCR). scripts/check-accuracy.sh fails below these.
+# Raise a number when a change improves the score; RESULTS.md has the details.
+screens 91
+photos 91
+real 29
+xbox 24

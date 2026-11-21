@@ -1,0 +1,19 @@
+Item Class: Helmets
+Rarity: Rare
+Glyph Crown
+Hubris Circlet
+--------
+Energy Shield: 312 (augmented)
+--------
+Requirements:
+Level: 69
+Int: 154
+--------
+Item Level: 86
+--------
++86 to maximum Life
++71 to maximum Energy Shield
+42% increased Energy Shield
++35% to Fire Resistance
++30% to Lightning Resistance
++2 to Level of Socketed Minion Gems

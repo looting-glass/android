@@ -1,0 +1,197 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "INCINERATING GOLD GLOVES OF THE DESPERATE",
+   "left": 137,
+   "top": 69,
+   "right": 708,
+   "bottom": 89,
+   "color": [
+    114,
+    142,
+    239
+   ]
+  },
+  {
+   "text": "E Doable Items",
+   "left": 19,
+   "top": 106,
+   "right": 177,
+   "bottom": 129,
+   "color": [
+    42,
+    33,
+    0
+   ]
+  },
+  {
+   "text": "Doable Items cLOVES",
+   "left": 225,
+   "top": 104,
+   "right": 453,
+   "bottom": 134,
+   "color": [
+    54,
+    47,
+    22
+   ]
+  },
+  {
+   "text": "ENERGY SHIELD: 42",
+   "left": 330,
+   "top": 145,
+   "right": 515,
+   "bottom": 165,
+   "color": [
+    114,
+    113,
+    112
+   ]
+  },
+  {
+   "text": "REQUIRES: LEVEL 59, 73 INT",
+   "left": 288,
+   "top": 184,
+   "right": 559,
+   "bottom": 204,
+   "color": [
+    139,
+    138,
+    133
+   ]
+  },
+  {
+   "text": "Currencies",
+   "left": 651,
+   "top": 105,
+   "right": 760,
+   "bottom": 119,
+   "color": [
+    43,
+    39,
+    25
+   ]
+  },
+  {
+   "text": "Augrments",
+   "left": 649,
+   "top": 165,
+   "right": 753,
+   "bottom": 188,
+   "color": [
+    12,
+    22,
+    36
+   ]
+  },
+  {
+   "text": "Fragments",
+   "left": 652,
+   "top": 198,
+   "right": 760,
+   "bottom": 218,
+   "color": [
+    40,
+    36,
+    22
+   ]
+  },
+  {
+   "text": "ADDS 14 TO 27 FIRE DAMAGE TO ATTACKS",
+   "left": 215,
+   "top": 219,
+   "right": 626,
+   "bottom": 245,
+   "color": [
+    88,
+    88,
+    167
+   ]
+  },
+  {
+   "text": "LEECH 8% OF PHYSICAL ATTACK DAMAGE AS MANA",
+   "left": 167,
+   "top": 249,
+   "right": 676,
+   "bottom": 271,
+   "color": [
+    103,
+    102,
+    194
+   ]
+  },
+  {
+   "text": "Waystones",
+   "left": 663,
+   "top": 225,
+   "right": 760,
+   "bottom": 246,
+   "color": [
+    40,
+    31,
+    20
+   ]
+  },
+  {
+   "text": "KILL",
+   "left": 653,
+   "top": 266,
+   "right": 686,
+   "bottom": 276,
+   "color": [
+    46,
+    41,
+    27
+   ]
+  },
+  {
+   "text": "Doable Itemns",
+   "left": 662,
+   "top": 289,
+   "right": 787,
+   "bottom": 310,
+   "color": [
+    148,
+    124,
+    3
+   ]
+  },
+  {
+   "text": "Doable Items",
+   "left": 660,
+   "top": 318,
+   "right": 785,
+   "bottom": 343,
+   "color": [
+    148,
+    124,
+    1
+   ]
+  },
+  {
+   "text": "Be Trash",
+   "left": 619,
+   "top": 351,
+   "right": 704,
+   "bottom": 371,
+   "color": [
+    143,
+    145,
+    83
+   ]
+  },
+  {
+   "text": "Abyss",
+   "left": 649,
+   "top": 383,
+   "right": 708,
+   "bottom": 408,
+   "color": [
+    138,
+    124,
+    91
+   ]
+  }
+ ]
+}

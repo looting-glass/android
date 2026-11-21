@@ -1,0 +1,149 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "SKULL PILLAR",
+   "left": 420,
+   "top": 188,
+   "right": 687,
+   "bottom": 224,
+   "color": [
+    155,
+    152,
+    98
+   ]
+  },
+  {
+   "text": "AEGIS QUARTERSTAFF",
+   "left": 365,
+   "top": 239,
+   "right": 756,
+   "bottom": 287,
+   "color": [
+    145,
+    142,
+    93
+   ]
+  },
+  {
+   "text": "PHYSICAL DAMAGE: 142-261",
+   "left": 328,
+   "top": 324,
+   "right": 777,
+   "bottom": 372,
+   "color": [
+    88,
+    88,
+    97
+   ]
+  },
+  {
+   "text": "CRITICAL HIT CHANCE: 10.00%",
+   "left": 306,
+   "top": 369,
+   "right": 802,
+   "bottom": 425,
+   "color": [
+    93,
+    93,
+    91
+   ]
+  },
+  {
+   "text": "ATTACKS PER SECOND: 1.55",
+   "left": 356,
+   "top": 419,
+   "right": 774,
+   "bottom": 473,
+   "color": [
+    85,
+    84,
+    87
+   ]
+  },
+  {
+   "text": "REQUIRES: LEVEL 70, 116 DEx, 46 INT",
+   "left": 276,
+   "top": 496,
+   "right": 857,
+   "bottom": 560,
+   "color": [
+    100,
+    100,
+    97
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 82",
+   "left": 445,
+   "top": 589,
+   "right": 688,
+   "bottom": 633,
+   "color": [
+    96,
+    96,
+    94
+   ]
+  },
+  {
+   "text": "141% TNCREASED PHYSICAL DAMAGE",
+   "left": 281,
+   "top": 660,
+   "right": 845,
+   "bottom": 724,
+   "color": [
+    76,
+    75,
+    104
+   ]
+  },
+  {
+   "text": "ADDS 12 TO 24 PHYSICAL DAMAGE",
+   "left": 297,
+   "top": 707,
+   "right": 834,
+   "bottom": 771,
+   "color": [
+    77,
+    76,
+    107
+   ]
+  },
+  {
+   "text": "11% INCREASED ATTACK SPEED",
+   "left": 329,
+   "top": 754,
+   "right": 810,
+   "bottom": 817,
+   "color": [
+    75,
+    73,
+    105
+   ]
+  },
+  {
+   "text": "+3 TO LEVEL OF ALL MEL EE SKILLS",
+   "left": 298,
+   "top": 798,
+   "right": 838,
+   "bottom": 872,
+   "color": [
+    70,
+    69,
+    100
+   ]
+  },
+  {
+   "text": "+21% TO CRITICAL DAMAGE BONUS",
+   "left": 295,
+   "top": 844,
+   "right": 844,
+   "bottom": 917,
+   "color": [
+    65,
+    64,
+    94
+   ]
+  }
+ ]
+}

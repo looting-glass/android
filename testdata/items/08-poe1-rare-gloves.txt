@@ -1,0 +1,20 @@
+Item Class: Gloves
+Rarity: Rare
+Grim Grip
+Fingerless Silk Gloves
+--------
+Energy Shield: 68 (augmented)
+--------
+Requirements:
+Level: 70
+Int: 95
+--------
+Item Level: 84
+--------
+14% increased Spell Damage (implicit)
+--------
++79 to maximum Life (fractured)
++48 to maximum Energy Shield
++36% to Cold Resistance
++29 to Intelligence
+12% increased Attack Speed

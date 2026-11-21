@@ -1,0 +1,77 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "SEETHING SAPPHIRE RING OF THE WALRUS",
+   "left": 31,
+   "top": 14,
+   "right": 426,
+   "bottom": 30,
+   "color": [
+    123,
+    121,
+    220
+   ]
+  },
+  {
+   "text": "REQUIRES LEVEL 30",
+   "left": 159,
+   "top": 57,
+   "right": 309,
+   "bottom": 74,
+   "color": [
+    140,
+    140,
+    139
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 68",
+   "left": 166,
+   "top": 102,
+   "right": 290,
+   "bottom": 115,
+   "color": [
+    137,
+    137,
+    136
+   ]
+  },
+  {
+   "text": "+26% TO COLD RESISTANCE",
+   "left": 118,
+   "top": 145,
+   "right": 338,
+   "bottom": 158,
+   "color": [
+    114,
+    114,
+    213
+   ]
+  },
+  {
+   "text": "+52 TO MAXIMUM MANA",
+   "left": 132,
+   "top": 188,
+   "right": 325,
+   "bottom": 201,
+   "color": [
+    112,
+    111,
+    207
+   ]
+  },
+  {
+   "text": "+33% To COLD RESISTANCE",
+   "left": 118,
+   "top": 211,
+   "right": 338,
+   "bottom": 228,
+   "color": [
+    97,
+    97,
+    179
+   ]
+  }
+ ]
+}

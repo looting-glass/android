@@ -1,0 +1,18 @@
+Item Class: Quarterstaves
+Rarity: Rare
+Skull Pillar
+Aegis Quarterstaff
+--------
+Physical Damage: 142-261 (augmented)
+Critical Hit Chance: 10.00%
+Attacks per Second: 1.55 (augmented)
+--------
+Requires: Level 70, 116 Dex, 46 Int
+--------
+Item Level: 82
+--------
+141% increased Physical Damage
+Adds 12 to 24 Physical Damage
+11% increased Attack Speed
++3 to Level of all Melee Skills
++21% to Critical Damage Bonus

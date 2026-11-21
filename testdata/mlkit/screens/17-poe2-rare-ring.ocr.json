@@ -1,0 +1,125 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "RAPTURE SPIRAL",
+   "left": 83,
+   "top": 14,
+   "right": 239,
+   "bottom": 30,
+   "color": [
+    228,
+    227,
+    106
+   ]
+  },
+  {
+   "text": "SAPPHIRE RING",
+   "left": 92,
+   "top": 42,
+   "right": 231,
+   "bottom": 58,
+   "color": [
+    233,
+    232,
+    108
+   ]
+  },
+  {
+   "text": "REQUIRES: LEVEL 52",
+   "left": 91,
+   "top": 85,
+   "right": 240,
+   "bottom": 102,
+   "color": [
+    138,
+    137,
+    137
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 78",
+   "left": 100,
+   "top": 129,
+   "right": 222,
+   "bottom": 143,
+   "color": [
+    126,
+    126,
+    125
+   ]
+  },
+  {
+   "text": "+24% TO COLD RESISTANCE",
+   "left": 51,
+   "top": 173,
+   "right": 270,
+   "bottom": 186,
+   "color": [
+    114,
+    114,
+    213
+   ]
+  },
+  {
+   "text": "+112 To AccURACY RATING",
+   "left": 50,
+   "top": 216,
+   "right": 272,
+   "bottom": 229,
+   "color": [
+    110,
+    110,
+    205
+   ]
+  },
+  {
+   "text": "+82 TO MAXIMUM MANA",
+   "left": 65,
+   "top": 241,
+   "right": 257,
+   "bottom": 254,
+   "color": [
+    113,
+    112,
+    209
+   ]
+  },
+  {
+   "text": "+31% TO FIRE RESISTANCE",
+   "left": 56,
+   "top": 266,
+   "right": 266,
+   "bottom": 279,
+   "color": [
+    115,
+    115,
+    215
+   ]
+  },
+  {
+   "text": "+26% TO LIGHTNING RESISTANCE",
+   "left": 31,
+   "top": 290,
+   "right": 291,
+   "bottom": 307,
+   "color": [
+    98,
+    98,
+    181
+   ]
+  },
+  {
+   "text": "+17 TO DEXTERITY",
+   "left": 88,
+   "top": 316,
+   "right": 235,
+   "bottom": 329,
+   "color": [
+    113,
+    112,
+    210
+   ]
+  }
+ ]
+}

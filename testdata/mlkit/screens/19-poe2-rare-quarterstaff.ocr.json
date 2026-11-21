@@ -1,0 +1,149 @@
+{
+ "engine": "mlkit-text-recognition-16",
+ "lines": [
+  {
+   "text": "SKULL PILLAR",
+   "left": 116,
+   "top": 14,
+   "right": 248,
+   "bottom": 30,
+   "color": [
+    222,
+    221,
+    103
+   ]
+  },
+  {
+   "text": "AEGIS QUARTERSTAFF",
+   "left": 78,
+   "top": 42,
+   "right": 284,
+   "bottom": 61,
+   "color": [
+    204,
+    201,
+    94
+   ]
+  },
+  {
+   "text": "PHYSICAL DAMAGE: 142-261",
+   "left": 69,
+   "top": 87,
+   "right": 293,
+   "bottom": 100,
+   "color": [
+    112,
+    112,
+    145
+   ]
+  },
+  {
+   "text": "CRITICAL HIT CHANCE: 10.00%",
+   "left": 58,
+   "top": 111,
+   "right": 305,
+   "bottom": 125,
+   "color": [
+    136,
+    136,
+    135
+   ]
+  },
+  {
+   "text": "ATTACKS PER SECOND: 1.55",
+   "left": 82,
+   "top": 136,
+   "right": 290,
+   "bottom": 153,
+   "color": [
+    91,
+    91,
+    105
+   ]
+  },
+  {
+   "text": "REQUIRES: LEVEL 70, 116 DEX, 46 INT",
+   "left": 39,
+   "top": 178,
+   "right": 332,
+   "bottom": 195,
+   "color": [
+    156,
+    156,
+    155
+   ]
+  },
+  {
+   "text": "ITEM LEVEL: 82",
+   "left": 120,
+   "top": 222,
+   "right": 243,
+   "bottom": 236,
+   "color": [
+    130,
+    130,
+    129
+   ]
+  },
+  {
+   "text": "141% INCREASED PHYSICAL DAMAGE",
+   "left": 38,
+   "top": 266,
+   "right": 326,
+   "bottom": 279,
+   "color": [
+    116,
+    115,
+    215
+   ]
+  },
+  {
+   "text": "ADDS 12 TO 24 PHYSICAL DAMAGE",
+   "left": 44,
+   "top": 291,
+   "right": 318,
+   "bottom": 304,
+   "color": [
+    115,
+    115,
+    214
+   ]
+  },
+  {
+   "text": "11% INCREASED ATTACK SPEED",
+   "left": 59,
+   "top": 316,
+   "right": 305,
+   "bottom": 329,
+   "color": [
+    115,
+    115,
+    214
+   ]
+  },
+  {
+   "text": "+3 TO LEVEL OF ALL MELEE SKILLS",
+   "left": 45,
+   "top": 341,
+   "right": 319,
+   "bottom": 356,
+   "color": [
+    102,
+    101,
+    188
+   ]
+  },
+  {
+   "text": "+21% To CRITICAL DAMAGE BONUS",
+   "left": 41,
+   "top": 364,
+   "right": 322,
+   "bottom": 381,
+   "color": [
+    98,
+    97,
+    180
+   ]
+  }
+ ]
+}

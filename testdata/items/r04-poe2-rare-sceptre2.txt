@@ -1,0 +1,16 @@
+Item Class: Sceptres
+Rarity: Rare
+Rift Star
+Shrine Sceptre
+--------
+Spirit: 100
+--------
+Requires: Level 52, 17 Str, 38 Int
+--------
+Grants Skill: Level 14 Purity of Ice
+--------
++134 to maximum Mana
+Allies in your Presence deal 1 to 3 added Attack Fire Damage
+56% increased Mana Regeneration Rate
+10% increased Light Radius
+32% Surpassing Chance to gain a Puppet Master stack whenever you use a Command Skill (crafted)

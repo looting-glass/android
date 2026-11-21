@@ -1,0 +1,10 @@
+Item Class: Jewels
+Rarity: Magic
+Vivid Cobalt Jewel of Ease
+--------
+Item Level: 80
+--------
+7% increased maximum Life
+12% increased Cast Speed
+--------
+Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.

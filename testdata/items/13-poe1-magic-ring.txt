@@ -1,0 +1,13 @@
+Item Class: Rings
+Rarity: Magic
+Seething Sapphire Ring of the Walrus
+--------
+Requirements:
+Level: 30
+--------
+Item Level: 68
+--------
++26% to Cold Resistance (implicit)
+--------
++52 to maximum Mana
++33% to Cold Resistance
