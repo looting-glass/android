@@ -18,6 +18,10 @@ the conventions that aren't written down anywhere else.
   `version.txt` and writes `CHANGELOG.md` (`fix` → patch, `feat` → minor, `docs`/`ci`/`chore` →
   no release). Merging that PR tags `vX.Y.Z`, publishes the GitHub release and builds the signed
   APK. Leave the version and changelog to it.
+- The website's Android page shows the latest release's changelog, and a daily deploy picks
+  up new releases. After merging a release PR, once the APK is attached, start
+  `gh workflow run Pages --repo looting-glass/looting-glass.github.io` to show it right away;
+  the website's `AGENTS.md` says what to check.
 - Commit and push when the maintainer asks; leave changes uncommitted otherwise. Already-pushed
   history stays as it is.
 
