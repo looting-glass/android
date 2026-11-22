@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/looting-glass/android/compare/v0.2.0...v0.3.0) (2026-11-22)
+
+
+### Features
+
+* purple-pink launcher icon to match the app's accent ([#6](https://github.com/looting-glass/android/issues/6)) ([c82df3a](https://github.com/looting-glass/android/commit/c82df3aeabf1fa518bfa6a417bf2795d5eb91533))
+
 ## [0.2.0](https://github.com/rockymontana/looting-glass-android/compare/v0.1.4...v0.2.0) (2026-11-21)
 
 
