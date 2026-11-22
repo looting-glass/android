@@ -25,6 +25,19 @@ the conventions that aren't written down anywhere else.
 - Commit and push when the maintainer asks; leave changes uncommitted otherwise. Already-pushed
   history stays as it is.
 
+## Where code goes
+
+- **Rust (`core/`) holds everything about the game and the trade site**: item and OCR-text
+  parsing, which filters a search gets and their defaults, trade and poe.ninja queries, prices
+  and how they read, PoE 1 vs PoE 2 rules. A new feature starts there, with tests, and reaches
+  Kotlin through `ffi/` (UniFFI).
+- **Kotlin holds the phone**: Compose UI, camera and photo picker, ML Kit OCR, settings storage,
+  permissions. It shows what `core` returns and passes the user's input back.
+- **Why:** `core` is how features move between this app and the desktop app (*Repos and shared
+  code*). Logic in Rust ports either way; logic in Kotlin has to be written again.
+- A spec covering both: build the game logic in `core` first, then the UI on top. If something
+  truly needs logic in Kotlin (an Android-only API, say), explain why in the PR.
+
 ## Repos and shared code
 
 Three repos under [github.com/looting-glass](https://github.com/looting-glass), each with its own
@@ -75,7 +88,7 @@ When porting:
   one behaviour per test with a descriptive name. No new `cargo clippy` warnings.
 - **Kotlin** follows the existing Compose code: UI state in the `ViewModel` as `StateFlow`,
   composables stateless where they can be, one-line KDoc on types. Rust types reach Kotlin
-  through UniFFI (`ffi/`); keep logic in Rust and the Kotlin side to UI and Android APIs.
+  through UniFFI (`ffi/`).
 - **Words**: "PoE 1" / "PoE 2", sentence-case UI labels, the same names for things as the
   desktop app (filters, totals, listings).
 
